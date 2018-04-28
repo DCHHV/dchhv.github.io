@@ -14,7 +14,7 @@
 </ul>
 <h3>Other DEFCON talks hardware related</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=JZ3EB68v_B0">Hacking Electric Skateboards</a>Mike Ryan and Richo Healey</li>
+<li><a href="https://www.youtube.com/watch?v=JZ3EB68v_B0">Hacking Electric Skateboards</a> - Mike Ryan and Richo Healey</li>
 </ul>
 <h2>DEF CON 22</h2>
 <ul>
