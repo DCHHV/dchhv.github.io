@@ -12,7 +12,7 @@
   max-width: 100%;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $sans-serif;
+  font-family: $terminal;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: $terminal;
   }
 
   li {
@@ -78,13 +78,13 @@
       display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: $terminal;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: $muted-text-color;
+      color: $gallery;
       border: 1px solid mix(#000, $border-color, 25%);
       border-radius: 0;
 
@@ -128,12 +128,12 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
+    font-family: $terminal;
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: $muted-text-color;
+    color: $gallery;
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
@@ -185,7 +185,7 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: $gallery;
     text-decoration: none;
 
     &:hover {
@@ -468,7 +468,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: $terminal;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -477,7 +477,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  font-family: $terminal;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -489,7 +489,7 @@
      ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $terminal;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -517,7 +517,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $muted-text-color;
+    color: $gallery;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
