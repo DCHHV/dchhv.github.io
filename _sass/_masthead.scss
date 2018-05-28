@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px dashed #b5e853;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -15,13 +15,13 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 5px;
     max-width: 100%;
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: $terminal;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -68,6 +68,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    font-color: #000000;
   }
 }
 
