@@ -1,3 +1,13 @@
+# <center>DEF CON 26</center>
+## <center>August 9-12, 2018 at Caesars Palace & Flamingo</center>
+Join us for another DEF CON adventure! After 10 years of providing a space to explore and learn about hardware, we’re rebooting to bring you more hardware hacking awesomeness.
+
+We are located in the Caesars Palace Village area this year. We are sharing a (very) large space with the new Soldering Skills Village, and the Badge Maker’s Community Area. This puts all of your hardware hacking/making resources in one place.
+
+For more details on hours and other events, see the [events](/events) page.
+
+* * *
+<br />
 ## Special Announcement for DEF CON 26!
 The culture of hacking is always changing; the people, the mindset, even the clothes. The DEF CON Hardware Hacking Village was established for DC16 and celebrated its 10th anniversary at DC25. While we have strived to provide the best resource for everyone, we feel that we have fallen behind in the last few years. This is mostly due to the strained resource of the HHV, the majestic soldering iron. Even though we maintain a large amount of irons, it has not been enough to keep up with demand. While soldering is an important skill, the hardware hacker's tool belt contains more than the soldering iron and the HHV's goal is to teach and provide this broad spectrum of tools. To accommodate this, the HHV is branching in to two independent groups.
 

@@ -2,5 +2,9 @@
 main:
    - title: "Home"
      url: /
-   - title: "Test"
-     url: /test/
+   - title: "About"
+     url: /about/
+   - title: "Events"
+     url: /events/
+   - title: "CFP"
+     url: /CFP/
