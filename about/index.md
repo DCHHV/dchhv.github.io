@@ -1,10 +1,10 @@
 # About
-## What to expect
+## What to Expect
 We help you make your own use for things.  DEF CON provides the tools and supplies for your hardware hacking pleasure; our volunteers help facilitate that.  We might not have every tool under the sun, but we can help cobble something together in order to break, make, and repurpose.  We host a number of talks and small workshops showing off real-world exploits.  Additionally, we put on challenges to teach various hardware hacking concepts.  See the [events](/events) for more information on both of these.  
 
 Like other DEF CON villages, we are a place to share knowledge.  Our goal is to have you walk away having learned something new or having taught someone else.  Come strike up a conversation and be a good neighbor!
 
-## The village itself
+## The Village Itself
 The HHV was started back in 2008 for DEF CON 16.  It was a small room filled with people and solder fumes and has since exploded in size and the number of people that come through.  We are always working to generate a comfortable atmosphere for learning, one that sparks conversations and helps build a community.  
 
 ## Volunteers
