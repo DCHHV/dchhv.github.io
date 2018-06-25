@@ -12,6 +12,14 @@ None of this would happen without our volunteers.  These are the people that spe
 
 A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace.  They have given us so much of their time and effort over the years!
 
+## Donors
+Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors.  Our current donors for DEF CON 26 are:
+
+| [Hak5](https://www.hak5.org/) | [HackerBoxes](https://hackerboxes.com/) | [Pololu](https://www.pololu.com/) |
+| [SparkFun](https://www.sparkfun.com/) |
+
+Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
+
 ## Website
 This website is based on the Jekyll "Hacker" theme, modified to fit our needs.  We're mostly electrical/embedded software engineers, but we try to make do.  We would appreciate any contributions you can make to the Jekyll backend!
 
