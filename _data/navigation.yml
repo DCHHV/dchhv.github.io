@@ -4,7 +4,7 @@ main:
      url: /
    - title: "About"
      url: /about/
-   - title: "Events"
-     url: /events/
+   - title: "Schedule"
+     url: /schedule/
    - title: "CFP"
      url: /CFP/

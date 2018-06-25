@@ -1,2 +1,2 @@
-# Events
+# Schedule
 To be announced!
