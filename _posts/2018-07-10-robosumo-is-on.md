@@ -6,7 +6,7 @@ author: tieshort
 categories: announcement
 ---
 
-We are proud to be hosting another round of Robo Sumo this year. We have posted the <a href="">rules for this year</a>.
+We are proud to be hosting another round of Robo Sumo this year. We have posted the <a href="\robosumo.html">rules for this year</a>.
 
 We are also putting in a category for Hebocon. This being DEFCON I am sure there are all kinds of things just need a couple of servos and some wiring and they would be ready for the ring.
 
