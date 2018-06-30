@@ -1,4 +1,8 @@
-# About
+---
+title: About
+layout: page
+---
+
 ## What to Expect
 We help you make your own use for things.  DEF CON provides the tools and supplies for your hardware hacking pleasure; our volunteers help facilitate that.  We might not have every tool under the sun, but we can help cobble something together in order to break, make, and repurpose.  We host a number of talks and small workshops showing off real-world exploits.  Additionally, we put on challenges to teach various hardware hacking concepts.  See the [schedule](/schedule) for more information on both of these.  
 

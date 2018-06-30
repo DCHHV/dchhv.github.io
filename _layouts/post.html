@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  {% include head_meta.html %}
+
+  <body>
+    {% include masthead.html %}
+    {% include banner.html %}
+
+    <div class="container">
+      <section id="main_content">
+        <center>
+          <h1>{{ page.title }}</h1>
+        </center>
+        <p class="view">by {{ page.author }}</p>
+        <small>{{ page.date | date_to_long_string }}</small>
+
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>

@@ -1,3 +1,8 @@
+---
+title: Call for Papers
+layout: page
+---
+
 ## Talks/Demos/Hands-on Workshops
 ### Call for papers for DEF CON 26 is closed!
 We want to give you a platform to talk on!  Have a cool hack you want to show off?  Want to teach something awesome?  Feel like blabbering on in front of a crowd?  Let us know!
