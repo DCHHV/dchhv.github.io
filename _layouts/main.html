@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+{% seo %}
+  </head>
+
+  <body>
+    {% include masthead.html %}
+    <header>
+      <div class="container">
+        <img src="/assets/header.png" style="width:100%">
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <center>
+          <h1>{{ page.title }}</h1>
+          <h2>{{ page.subtitle }}</h2>
+        </center>
+
+        {{ content }}
+      </section>
+      <hr>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post.excerpt }}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </body>
+</html>
