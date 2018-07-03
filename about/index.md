@@ -20,7 +20,7 @@ A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace. 
 Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors.  Our current donors for DEF CON 26 are:
 
 | [Hak5](https://www.hak5.org/) | [HackerBoxes](https://hackerboxes.com/) | [Pololu](https://www.pololu.com/) |
-| [SparkFun](https://www.sparkfun.com/) |
+| [SparkFun](https://www.sparkfun.com/) | [UAT](https://www.uat.edu/) |
 
 Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
 
