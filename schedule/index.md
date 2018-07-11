@@ -76,6 +76,12 @@ layout: page
 Joe FitzPatriclk, @arinerron, and @pixieofchaos
 #### Abstract
 This workshop introduces several different relatively accessible interfaces on embedded systems. Attendees will get hands-on experience with UART, SPI, and JTAG interfaces on a MIPS-based wifi development board. After a brief architectural overview of each interface, hands-on labs will guide through the process understanding, observing, interacting with, and exploiting the interface to potentially access a root shell on the target.
+#### What to Bring
+No hardware or electrical background is required. Computer architecture knowledge, Linux internals, command-line familiarity, and low-level programming experience all very helpful but not actually required.
+
+All equipment, including laptops, will be provided for use in the class. Students will be provided with a lab manual that includes an equipment list of all materials used for the class.
+
+Max size: 24, first come first serve basis.
 #### Bio
 Joe (@securelyfitz) is an Instructor and Researcher at https://SecuringHardware.com (@securinghw). Joe has spent over a decade working on low-level silicon debug, security validation, and penetration testing of CPUS, SOCs, and microcontrollers. He has spent the past 5 years developing and leading hardware security related training, instructing hundreds of security researchers, pen testers, hardware validators worldwide. When not teaching Applied Physical Attacks training, Joe is busy developing new course content or working on contributions to the NSA Playset and other misdirected hardware projects, which he regularly presents at all sorts of fun conferences.
 
@@ -87,6 +93,10 @@ Chaos Pixie (@pixieofchaos) works for the man doing embedded systems security.
 Chris Gammell
 #### Abstract
 This is an in-person, hands-on version of "Getting To Blinky", an online course series that has taught thousands to use the free and open source electronics CAD program, KiCad. This would be a "DEFCON badge" version of that course which showcases how to add a blinking circuit, get acquainted with the tool and also add customizable artwork to a Printed Circuit Board (PCB). By the end, attendees will be able to actually order a low cost PCB from online sources.
+#### What to Bring
+Please come to this session with a computer with KiCad set up and running.  Course is aimed at KiCad 4.0.7, slightly earlier is fine but 5.0.0 is not advised. Install assistance can be given during the beginning of the presentation if needed.
+
+Max size: 24, first come first serve basis.
 #### Bio
 Chris Gammell is the host of The Amp Hour Electronics podcast and the owner of Contextual Electronics, an online apprenticeship program. He has been teaching people to design and build electronics online for 8 years, including 5 as an online instructor. His interests are in hands on education and making the electronics learning process easier. He also focuses on low cost and no cost tools, like the open source CAD program KiCad. Prior to teaching online, Chris was an electronics designer for 15 years in various industrial settings.
 * * *
