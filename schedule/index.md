@@ -19,7 +19,7 @@ layout: page
 | 1000 | HHV/SSV/BMCA Startup |
 | 1000 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) begins in the SSV area!
 | 1500 | [Robo Sumo](/events/robosumo.html)
-| 1630 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) last call for the day!
+| 1830 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) last call for the day!
 | 1900 | HHV/SSV/BMCA Shutdown |
 
 ### Saturday
@@ -29,7 +29,7 @@ layout: page
 | 1000 | HHV/SSV/BMCA Startup |
 | 1000 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) begins in the SSV area!
 | 1500 | [Robo Sumo: Hebocon Edition](/events/robosumo.html)
-| 1630 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) last call for the whole contest!
+| 1730 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) last call for the whole contest!
 | 1900 | HHV/SSV/BMCA Shutdown |
 
 ### Sunday
