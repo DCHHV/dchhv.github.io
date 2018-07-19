@@ -34,3 +34,9 @@ Thank you to [Tindie](https://www.tindie.com) and [Hackaday](https://www.hackada
 1.  We will NOT be judging on remaining flux residue. We understand that at DEF CON it can be a pain to get it clean. We use No-Clean flux anyway.
 1.  We will have prizes for the top three scorers.
 1.  This is DEF CON, if you manage to impress the judges in one way or another, you may win a special prize.
+1.  You can review the datasheets for the kit LED parts below, we will also have paper copies of the important bits on-site:
+    *  [LED RED CLEAR 1206 SMD](http://optoelectronics.liteon.com/upload/download/DS-22-99-0149/LTST-C150KRKT.pdf)
+    *  [LED ORANGE CLEAR 0805 SMD](https://media.digikey.com/pdf/Data%20Sheets/Dialight%20PDFs/598_Series_0805_Pkg.pdf)
+    *  [LED YELLOW CLEAR 0603 SMD](http://optoelectronics.liteon.com/upload/download/DS22-2000-224/LTST-C191KSKT.PDF)
+    *  [LED GREEN CLEAR 0402 SMD](http://www.sunledusa.com/products/spec/XZVG68W-2.pdf)
+    *  [LED BLUE CLEAR 0201 SMD](http://www.kingbrightusa.com/images/catalog/SPEC/APG0603PBC-TT-5MAV.pdf)
