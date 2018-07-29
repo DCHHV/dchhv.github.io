@@ -9,7 +9,7 @@ Come to the SSV for the soldering challenge! We have a number of prizes to give 
 
 The contest will be run in groups of 6 people. That is, we sit 6 people down at once and everyone starts at the same time. This will happen four times on Friday, and four times on Saturday. When all is said and done, you get to keep the PCB and the bragging rights that come along with it. The contest is using the [MakersBox SMD Challenge PCB](https://hackaday.io/project/25265-an-unfortunate-smd-project).
 
-Entry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don't be late, come early to get a spot at the table!
+Entry is on a first-come, first-serve basis. We start each sitting promptly at the times on the schedule, with the inspection period starting shortly after. Don't be late, come early to get a spot at the table! Sign-ups for each sitting start an hour before the sitting happens.
 
 Participants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.
 
