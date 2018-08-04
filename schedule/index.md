@@ -18,9 +18,12 @@ layout: page
 |------|--------|
 | 1000 | HHV/SSV/BMCA Startup |
 | 1100 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1100 | DCG858/619 in the BMCA.
 | 1200 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
 | 1300 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1300 | Badge interfacing SPI/UART/I2C with MaraJade in the BMCA.
 | 1400 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1430 | How to make and order your first PCB! Working with KiCAD and PCB Houses With B1un7 and his Flying Badge in the BMCA.
 | 1500 | [Robo Sumo](/events/robosumo.html) in the HHV.
 | 1900 | HHV/SSV/BMCA Shutdown |
 
@@ -30,9 +33,13 @@ layout: page
 |------|--------|
 | 1000 | HHV/SSV/BMCA Startup |
 | 1100 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1100 | How to make and order your first PCB! Working with KiCAD and PCB Houses With B1un7 and his Flying Badge in the BMCA.
 | 1200 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1200 | DCG858/619 in the BMCA.
 | 1300 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1300 | Identifying and sourcing electronic components in the BMCA.
 | 1400 | [SMD Soldering Challenge](/events/smdsolderchallenge.html) in the SSV.
+| 1400 | Making PCB Art with TwinkleTwinkie in the BMCA.
 | 1500 | [Robo Sumo: Hebocon Edition](/events/robosumo.html) in the HHV
 | 1900 | HHV/SSV/BMCA Shutdown |
 
