@@ -4,6 +4,8 @@ main:
      url: /
    - title: "About"
      url: /about/
+   - title: "Project Blog"
+     url: /projects.html
    - title: "Schedule"
      url: /schedule/
    - title: "CFP"
