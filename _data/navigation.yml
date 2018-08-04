@@ -3,10 +3,10 @@ main:
    - title: "Home"
      url: /
    - title: "About"
-     url: /about/
+     url: /about.html
    - title: "Project Blog"
      url: /projects.html
    - title: "Schedule"
      url: /schedule/
    - title: "CFP"
-     url: /CFP/
+     url: /CFP.html
