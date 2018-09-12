@@ -13,7 +13,7 @@ Entry is on a first-come, first-serve basis. We start each sitting promptly at t
 
 Participants will need to provide a name or handle as well as a method of contact. Name/handle will be used to announce winners (who may remain anonymous if they wish). Contact will be used to inform winners of when, where, and how to pick up their prizes. Contact information will absolutely not be shared with any other parties and will be destroyed after the contest is complete.
 
-Times for the contest will be announced in the [schedule](/schedule).
+Times for the contest will be announced in the [schedule](/schedule.html).
 
 Thank you to [Tindie](https://www.tindie.com), [Hackaday](https://www.hackaday.com), and [MakersBox](https://www.tindie.com/products/MakersBox/smd-challenge) for providing the SSV with the challenge PCBs!
 
