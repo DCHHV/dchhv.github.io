@@ -1,11 +1,9 @@
 ---
-title: DEF CON 26
-subtitle: August 9-12, 2018 at Caesars Palace & Flamingo
+title: DEF CON 27
+subtitle: August 8-11, 2019 at Paris, Ballys, and Planet Hollywood, Las Vegas.
 layout: main
 ---
 
-Join us for another DEF CON adventure! After 10 years of providing a space to explore and learn about hardware, we’re rebooting to bring you more hardware hacking awesomeness.
+Join us for another DEF CON adventure and enjoy some hardware hacking shenanigans!
 
-We are located in the Caesars Palace Village area this year. We are sharing a (very) large space with the new Soldering Skills Village, and the Badge Maker’s Community Area. This puts all of your hardware hacking/making resources in one place.
-
-For more details on hours and other events, see the [schedule](/schedule.html) page.
+Keep an eye on our [Twitter feed](https://twitter.com/DC_HHV) to stay up to date with announcements as they come out!
