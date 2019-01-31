@@ -18,7 +18,7 @@ There are a few ways to approach this problem. The intended way of solving the c
 
 Using a logic analyzer and calculating the time delay between when a button is reported via UART and when the LED illuminates as feedback from a press, it's possible to deduce whether or not a passcode entry was correct (as long as the prior entries were correct). The image below shows three button presses; the first is correct and there is a 20 ms delay between the UART (channel 2 in the image) report and the LED flashing (channel 3 in the image). The second button press is incorrect, resulting in a much shorter delay between report and flash. The third press will result in a short delay regardless or correctness since the system is designed to ignore following inputs once an incorrect passcode button press is entered.
 
-![](/assets/timing_capture.png)
+![](/assets/images/dc26_re_timing_capture.png)
 
 The correct passcode is 14431212, and once it is entered, the middle LED will turn on and the flag "h3y_wh4ts_t3h_p4ssw0rd?" will be transmitted via the UART interface.
 

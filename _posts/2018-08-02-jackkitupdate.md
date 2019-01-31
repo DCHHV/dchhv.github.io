@@ -13,5 +13,5 @@ While it is advertised as a 1 out of 5 difficulty, we stand firm that this is no
 
 Because of these facts, we have recreated the paper manual, added our own details for beginners, and will have copies on hand at DEF CON for people to reference. We focused specifically on the LEDs, since those are the most difficult for a beginner. In our manual is a handful of suggestions and processes to clear out bridged pins.
 
-* [Download HHV re-created DEF CON Jack kit instructions here](/assets/jack_soldering_tips.pdf)
+* [Download HHV re-created DEF CON Jack kit instructions here](/assets/docs/jack_soldering_tips.pdf)
 
