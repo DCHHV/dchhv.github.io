@@ -7,7 +7,7 @@ author_url: https://blog.rehr.io/
 categories: [project, DC26]
 ---
 
-Thank you to everyone who participated, or is still participating, in this year's challenge. This was my first year creating and running the HHV challenge, and as a result, I've learned a lot and I hope to bring it even better next year! Huge shout out to [Chris Dubsky](https://twitter.com/Xtophr_KerrAvon) for being the first (and only) person to solve the challenge at DEF CON. If you weren't able to particapte, but still want to, the files are available [on our Github](https://github.com/DCHHV/DC26_HHV_RE). **SPOILER ALERT** Below is a write-up of the challenges and solutions. Don't read past this point if you are still attempting (or want to attempt) the challenges without help/solutions.
+Thank you to everyone who participated, or is still participating, in this year's challenge. This was my first year creating and running the HHV challenge, and as a result, I've learned a lot and I hope to bring it even better next year! Huge shout out to [Chris Dubsky](https://twitter.com/Xtophr_KerrAvon) for being the first (and only) person to solve the challenge at DEF CON. If you weren't able to participate, but still want to, the files are available [on our Github](https://github.com/DCHHV/DC26_HHV_RE). **SPOILER ALERT** Below is a write-up of the challenges and solutions. Don't read past this point if you are still attempting (or want to attempt) the challenges without help/solutions.
 
 #### Pre challenge
 
