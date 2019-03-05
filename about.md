@@ -11,6 +11,8 @@ Like other DEF CON villages, we are a place to share knowledge.  Our goal is to 
 ## The Village Itself
 The HHV was started back in 2008 for DEF CON 16.  It was a small room filled with people and solder fumes and has since exploded in size and the number of people that come through.  We are always working to generate a comfortable atmosphere for learning, one that sparks conversations and helps build a community.  
 
+We are currently two halves that come together; the Hardware Hacking Village and the Soldering Skills Village. Both are managed and staffed by the same team but they serve separate roles at DEF CON. The HHV strives to provide hardware hacking resources, tools, and knowledge to the Humans of DEF CON. While the SSV focuses on soldering and making anew. Between both villages you have the necessary resources to break things apart and create something new from the pieces.
+
 ## Volunteers
 None of this would happen without our volunteers.  These are the people that spend countless hours outside of DEF CON to plan and maintain the village. These are the people who come to DEF CON and spend their time guiding the HHV attendees.  We talk, host contests, create puzzles and challenges, put together displays and information.  Interested in being a volunteer?  Head over to the [CFP](/CFP.html) page to get in contact with us.
 
