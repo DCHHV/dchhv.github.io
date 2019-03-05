@@ -17,13 +17,22 @@ None of this would happen without our volunteers.  These are the people that spe
 A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace.  They have given us so much of their time and effort over the years!
 
 ## Donors
-Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors.  Our current donors for DEF CON 26 are:
+Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors who give to the Hardware Hacking Village and the Soldering Skills Village.  Our current donors for DEF CON 26 are:
 
 | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| [Hak5](https://www.hak5.org/) |
 | [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
 | [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
 
 Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
+
+- First and foremost, if you are considering donating to the HHV and/or SSV, THANK YOU! Your donations to us go directly to the attendees in order to give them something to play with or hack on during DEF CON. We make sure it gets in their hands as giveaways or as prizes for contests and events that we run. All items that we give away to attendees are directly from donors.
+
+- Donated items can, of course, have logos, stickers, or brand names on them. You donated them and we want our attendees to know they came from you! However, please refrain from donating items that are purely promotional or advertising materials.
+
+- If you decide to donate, we will be happy to also put out small promotional items like stickers, buttons, badges, or discount coupons on our main table if they are provided to us.
+
+- Finally, if your donation will contain text specifically stating the item was for the HHV and/or SSV, please use the phrase:
+"Donated by \<name\> to the \<HHV and/or SSV\>." or "Donated to the \<HHV and/or SSV\> by \<name\>."
 
 ## Website
 This website is based on the Jekyll "Hacker" theme, modified to fit our needs.  We're mostly electrical/embedded software engineers, but we try to make do.  We would appreciate any contributions you can make to the Jekyll backend!
