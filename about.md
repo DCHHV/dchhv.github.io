@@ -9,9 +9,9 @@ We help you make your own use for things.  DEF CON provides the tools and suppli
 Like other DEF CON villages, we are a place to share knowledge.  Our goal is to have you walk away having learned something new or having taught someone else.  Come strike up a conversation and be a good neighbor!
 
 ## The Village Itself
-The HHV was started back in 2008 for DEF CON 16.  It was a small room filled with people and solder fumes and has since exploded in size and the number of people that come through.  We are always working to generate a comfortable atmosphere for learning, one that sparks conversations and helps build a community.  
+The HHV was started back in 2008 for DEF CON 16.  It was once a small room filled with people and solder fumes and has since exploded in size and number of people that come through.  We are always working to generate a comfortable atmosphere for learning, one that sparks conversations and helps build a community.  
 
-We are currently two halves that come together; the Hardware Hacking Village and the Soldering Skills Village. Both are managed and staffed by the same team but they serve separate roles at DEF CON. The HHV strives to provide hardware hacking resources, tools, and knowledge to the Humans of DEF CON. While the SSV focuses on soldering and making anew. Between both villages you have the necessary resources to break things apart and create something new from the pieces.
+We are currently two halves that come together: the Hardware Hacking Village and the Soldering Skills Village. Both are managed and staffed by the same team, but they serve separate roles at DEF CON. The HHV strives to provide hardware hacking resources, tools, and knowledge to the Humans of DEF CON. While the SSV focuses on soldering and making anew. Between both villages, you will have the necessary resources to break things apart and create something new from the pieces.
 
 ## Volunteers
 None of this would happen without our volunteers.  These are the people that spend countless hours outside of DEF CON to plan and maintain the village. These are the people who come to DEF CON and spend their time guiding the HHV attendees.  We talk, host contests, create puzzles and challenges, put together displays and information.  Interested in being a volunteer?  Head over to the [CFP](/CFP.html) page to get in contact with us.
@@ -31,7 +31,7 @@ Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchh
 
 - Donated items can, of course, have logos, stickers, or brand names on them. You donated them and we want our attendees to know they came from you! However, please refrain from donating items that are purely promotional or advertising materials.
 
-- If you decide to donate, we will be happy to also put out small promotional items like stickers, buttons, badges, or discount coupons on our main table if they are provided to us.
+- If you decide to donate, we will be happy to also put out small promotional items like stickers, buttons, badges, or discount coupons on our main table (if they are provided to us).
 
 - Finally, if your donation will contain text specifically stating the item was for the HHV and/or SSV, please use the phrase:
 "Donated by \<name\> to the \<HHV and/or SSV\>." or "Donated to the \<HHV and/or SSV\> by \<name\>."
