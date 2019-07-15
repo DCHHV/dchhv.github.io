@@ -9,7 +9,7 @@ categories: announcement livecd DC27
 
 With DEF CON 27 quickly approaching, we've locked in to place our official Kali HHV live images and have begun distribution via bittorrent. If you are unfamilar or unaware of this, we've forked Offensive Security's Kali Linux image builder. We used this opportunity to cram as much hardware hacking goodness that we could in to a DVD sized image. This allows us to give out and use our own live CD that has nearly all of the hardware hacking tools one could need during DEF CON. And, since it's based on the existing Kali Linux framework, it has all of the features one would expect from a security focused live CD.
 
-We will have a limited amount of discs to hand out during DEF CON. They are nothing special or limited edition, I only have so many blank and DVD-R discs on hand. Because of the limited amount, we wanted to get the ISOs out in to the world early for people to grab and set up on their own.
+We will have a limited amount of discs to hand out during DEF CON. They are nothing special or limited edition, I only have so many blank DVD-R discs on hand. Because of the limited amount, we wanted to get the ISOs out in to the world early for people to grab and set up on their own.
 
 Interested in building your own, suggest new packages, add more packages, or just want to learn more about this project? You can find the source repo [here](https://github.com/DCHHV/kali-live-build-config).
 
