@@ -7,6 +7,6 @@ main:
    - title: "Project Blog"
      url: /projects.html
    - title: "Schedule"
-     url: /schedule.html
+     url: /schedule/schedule.html
    - title: "CFP"
      url: /CFP.html

@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: DC26 Schedule
 layout: page
 ---
 
