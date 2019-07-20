@@ -41,19 +41,28 @@ layout: page
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 1000~1050 | Talk - [Reversing Corruption In Seagate Hdd Translators, The Naked Trill Data Recovery Project](#reversing-corruption-in-seagate-hdd-translators-the-naked-trill-data-recovery-project) | Bally's Event Villages Track 1 (Just outside the HHV)|
+|           | Allison Marie Naaktgeboren, MrDe4d | |
 | 1100~1150 | Talk - [Another Car Hacking Approach](#another-car-hacking-approach) | Bally's Event Villages Track 1 (Just outside the HHV) |
+|           | Benjamin Lafois, Vladan Nikolic | |
 | 1100~1250 | Workshop - [Rapid Prototyping For Badges](#rapid-prototyping-for-badges) | Inside HHV, Workshop Area |
+|           | Securelyfitz and friends | |
 | 1200~1230 | Talk - [Infrared: New Threats Meet Old Devices](#infrared-new-threats-meet-old-devices) | Bally's Event Villages Track 1 (Just outside the HHV) |
+|           | Wang Kang | |
 | 1400~1450 | Talk - [Making A Less Shitty Sao: How To Use Kicad To Build Your First Pretty Pcb](#making-a-less-shitty-sao-how-to-use-kicad-to-build-your-first-pretty-pcb) | Inside HHV, Workshop Area |
+|           | Steve Ball (hamster) | |
 | 1500~1550 | Talk - [Ebolaphone Or Bust](#ebolaphone-or-bust) | Inside HHV, Workshop Area |
+|           | SciaticNerd | |
 
 ### Saturday
 
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 1100~1150 | Talk - [Understanding & Making Pcb Art](#understanding--making-pcb-art) | Inside HHV, Workshop Area |
+|           | TwinkleTwinkie | |
 | 1200~1250 | Talk - [What You Print Is Not What You Get Anymore: Mitm Attack On 3D Printers Network Communications](#what-you-print-is-not-what-you-get-anymore-mitm-attack-on-3d-printers-network-communications) | Inside HHV, Workshop Area |
+|           | Hamza Alkofahi | |
 | 1700~1750 | Followup - [Fireside Chat Style Followup To Main Track Talk: Tag-side attacks against NFC](https://defcon.org/html/defcon-27/dc-27-speakers.html#Wade) Bring your questions, get some answers. | Inside HHV, Workshop Area |
+|           | Christopher Wade | |
 
 ## Talk/Workshop Details
 * * *
