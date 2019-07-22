@@ -14,16 +14,23 @@ The HHV was started back in 2008 for DEF CON 16.  It was once a small room fille
 We are currently two halves that come together: the Hardware Hacking Village and the Soldering Skills Village. Both are managed and staffed by the same team, but they serve separate roles at DEF CON. The HHV strives to provide hardware hacking resources, tools, and knowledge to the Humans of DEF CON. While the SSV focuses on soldering and making anew. Between both villages, you will have the necessary resources to break things apart and create something new from the pieces.
 
 ## Volunteers
-None of this would happen without our volunteers.  These are the people that spend countless hours outside of DEF CON to plan and maintain the village. These are the people who come to DEF CON and spend their time guiding the HHV attendees.  We talk, host contests, create puzzles and challenges, put together displays and information.  Interested in being a volunteer?  Head over to the [CFP](/CFP.html) page to get in contact with us.
+None of this would happen without our volunteers.  These are the people that spend countless hours outside of DEF CON to plan and maintain the village. These are the people who come to DEF CON and spend their time guiding the HHV attendees.  We talk, host contests, create puzzles and challenges, put together displays and information.  Interested in being a volunteer?  Head over to the [CFP page](/CFP.html) to get in contact with us.
 
 A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace.  They have given us so much of their time and effort over the years!
 
 ## Donors
-Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors who give to the Hardware Hacking Village and the Soldering Skills Village.  Our current donors for DEF CON 26 are:
+Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors who give to the Hardware Hacking Village and the Soldering Skills Village.  Our current donors for DEF CON 27 are:
+
+| [Circuit Specialists](https://www.circuitspecialists.com/) | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| 
+| [Ham Radio Workbench](https://www.hamradioworkbench.com) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
+| [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
+
+All donors, past and present:
 
 | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| [Hak5](https://www.hak5.org/) |
-| [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
-| [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
+| [Ham Radio Workbench](https://www.hamradioworkbench.com) | [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) | 
+| [Pololu](https://www.pololu.com/) | [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) |
+| [UAT](https://www.uat.edu/) |
 
 Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
 
