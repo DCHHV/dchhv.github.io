@@ -23,7 +23,7 @@ Some of our tools, many of our giveaways, and nearly all of our prizes are made 
 
 | [Circuit Specialists](https://www.circuitspecialists.com/) | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| 
 | [Ham Radio Workbench](https://www.hamradioworkbench.com) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
-| [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
+| [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
 
 All donors, past and present:
 
