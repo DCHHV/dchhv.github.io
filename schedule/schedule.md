@@ -61,6 +61,8 @@ layout: page
 |           | TwinkleTwinkie | |
 | 1200~1250 | Talk - [What You Print Is Not What You Get Anymore: Mitm Attack On 3D Printers Network Communications](#what-you-print-is-not-what-you-get-anymore-mitm-attack-on-3d-printers-network-communications) | Inside HHV, Workshop Area |
 |           | Hamza Alkofahi | |
+| 1400~1450 | Talk - [Hacking Con Badges for Fun and Profit](#hacking-con-badges-for-fun-and-profit) | Inside HHV, Workshop Area |
+|           | Rob Rehr | |
 | 1700~1750 | Followup - [Fireside Chat Style Followup To Main Track Talk: Tag-side attacks against NFC](https://defcon.org/html/defcon-27/dc-27-speakers.html#Wade) Bring your questions, get some answers. | Inside HHV, Workshop Area |
 |           | Christopher Wade | |
 
@@ -165,3 +167,17 @@ Additive Manufacturing (AM) and 3D Printing were conceived to reduce the cost of
 Hamza is a cybersecurity researcher and a white-hat hacker, currently doing his Ph.D. at Auburn University. He is interested in vulnerability assessment, reverse engineering, and detecting business logic vulnerabilities. He developed the first parser for a closed source file format (CMB) also built an automated system for detecting vulnerabilities in critical infrastructure websites.
 
 * * *
+### Hacking Con Badges for Fun and Profit
+Rob Rehr
+
+#### Abstract
+designs before the event starts. This can often be enough information to start crafting a hack for the badge, leading to a large advantage if the conference holds a badge hacking competition.
+
+Additionally, teams are now making accessories for their badges, known as Shitty Add-ons (SAOs). While the main use of SAOs seems to be a way to add more flashy features to badges, increasingly, more and more badges are utilizing the serial communication lines outlined in the SAO standard to control and expand badge and capabilities. In some cases, add-ons are being used for challenges and CTFs, where important information is being transferred between and/or stored on add-ons.
+
+In this talk I'll go over my techniques for hacking badges pre-con, including the original Bender Badge and the BSides PDX Badge. I'll also show off a man-in-the-middle tool I've been developing for SAOs, allowing for the monitoring and manipulation of i2c traffic on the badge. I'll also demonstrations on how to interface with the tool and use it to hack badge add-ons.
+
+#### Bio
+Rehr is a hardware hacker and senior electrical engineer at IDEO, with an excitement towards embedded systems design and repurposing. When not planning attacks on unreleased hardware devices, Rehr enjoys running, cycling, and repurposing Furbys.
+
+***
