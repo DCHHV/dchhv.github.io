@@ -22,15 +22,14 @@ A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace. 
 Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors who give to the Hardware Hacking Village and the Soldering Skills Village.  Our current donors for DEF CON 27 are:
 
 | [Circuit Specialists](https://www.circuitspecialists.com/) | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| 
-| [Ham Radio Workbench](https://www.hamradioworkbench.com) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
-| [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
+| [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) | [SparkFun](https://www.sparkfun.com/) |
+| [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
 
 All donors, past and present:
 
 | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/)| [Hak5](https://www.hak5.org/) |
-| [Ham Radio Workbench](https://www.hamradioworkbench.com) | [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) | 
-| [Pololu](https://www.pololu.com/) | [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) |
-| [UAT](https://www.uat.edu/) |
+| [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
+| [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
 
 Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
 
