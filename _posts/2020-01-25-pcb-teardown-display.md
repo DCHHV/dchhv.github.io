@@ -67,7 +67,7 @@ The PCBs were milled down to roughly 24 thousandths of an inch, about 1/3 of the
 ### Final De-layering
 With the rough de-layering completed, each of the 4 PCB halves were hand finished. Using a lot of patience, 250 grit sandpaper, and a respirator, the halves were hand sanded until the inner copper layer was fully exposed. A higher grit was used to remove the soldermask and silkscreen on the exterior layers. Once the copper was exposed on both ends, higher and higher grit sandpaper was used to carefully polish the exposed copper. The final thickness of the four halves were roughly 10 thousandths of an inch each, or roughly 1/6 of the original PCB thickness. Hand sanding through a fiberglass substrate is a rather laborious process and each half took 2-4 hours of careful sanding and polishing.
 
-This hand finishing process resulted in a near perfect surface that could be used to analyze the PCB for reverse engineering. For instance, this could be scanned in as a high-quality image and traced over in a drawing application. This could be used to dissect the schematic or create a 1:1 copy. In cases of careful analog/RF sections of a PCB, 1:1 copies of a known working physical designs can be more valuable than the schematic. 
+This hand finishing process resulted in a near perfect surface that could be used to analyze the PCB for reverse engineering. For instance, this could be scanned in as a high-quality image and traced over in a drawing application. This could be used to dissect the schematic or create a 1:1 copy. In cases of sensitive analog/RF sections of a PCB, 1:1 copies of a known working physical layout can be more valuable than the schematic. 
 
 
 ### Issues
