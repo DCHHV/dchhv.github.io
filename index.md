@@ -1,6 +1,6 @@
 ---
-title: DEF CON 27
-subtitle: August 8-11, 2019 at Paris, Ballys, and Planet Hollywood, Las Vegas.
+title: DEF CON 28
+subtitle: August 6-9, 2020 at the new Caesars Forum, Harrah's, Linq, and Flamingo Hotels, Las Vegas
 layout: main
 ---
 
