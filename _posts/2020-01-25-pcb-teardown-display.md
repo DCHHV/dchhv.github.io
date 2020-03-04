@@ -4,6 +4,7 @@ title: De-layered PCB Display
 date: 2020-01-25 00:00:00 -0000
 author: kbembedded
 author_url: https://github.com/kbembedded
+image: assets/images/pcb_delayer/EMIC_3D.jpg
 categories: [project]
 ---
 
