@@ -4,6 +4,7 @@ title: DC26 HHV Challenge Write-up
 date: 2018-10-02 00:00:00 -0000
 author: mediumrehr
 author_url: https://blog.rehr.io/
+image: assets/images/dc26_re_timing_capture.png
 categories: [project, DC26]
 ---
 

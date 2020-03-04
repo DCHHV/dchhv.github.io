@@ -3,6 +3,7 @@ layout: post
 title: Robo Sumo is Back!
 date: 2018-07-10 00:00:00 -0000
 author: tieshort 
+image: assets/images/header_logo.png
 categories: announcement
 ---
 

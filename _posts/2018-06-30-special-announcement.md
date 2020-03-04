@@ -4,6 +4,7 @@ title: Special Announcement for DEF CON 26!
 date: 2018-06-30 00:00:00 -0000
 author: kbembedded
 author_url: https://github.com/kbembedded
+image: assets/images/header_logo.png
 categories: announcement
 ---
 

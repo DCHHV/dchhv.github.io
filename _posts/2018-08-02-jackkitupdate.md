@@ -4,6 +4,7 @@ title: Re-created instructions for DEF CON Jack kit; now beginner friendly.
 date: 2018-08-02 00:00:00 -0000
 author: mediumrehr
 author_url: https://blog.rehr.io/
+image: assets/images/header_logo.png
 categories: [project, DC26]
 ---
 
