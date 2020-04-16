@@ -7,15 +7,15 @@ layout: page
 ### Call for papers for DEF CON 28 opening soon!
 We want to give you a platform to talk on!  Have a cool hack you want to show off?  Want to teach something awesome?  Feel like blabbering on in front of a crowd?  Let us know!
 
-We're most interested in the following:
+This year more than others we  are seeking anything and everything related to making your own use that is hands-on. Do you have a training or workshop that includes a hands-on component? Perhaps there is a specific meetup of a special (hardware) interest group you would like to lead? Topics that we are always interested in include:
 * Exploits/attacks on embedded systems
 * Unintended uses for electronic devices
 * Repurposing electronic devices
 * Tutorials and demos on hardware hacking and reverse engineering
 
-Not sure if your presentation falls in those categories? Make a submission anyway!
+Not sure if your activity falls into any of those categories? Make a submission anyway!
 
-[Submit your information here!](https://goo.gl/forms/jASMRhNbMcNpgn9y2)
+[Submit your information here!](https://forms.gle/FthCBDxcTNc87Yjx8)
 * * *
 <br/>
 ## Become a Volunteer
