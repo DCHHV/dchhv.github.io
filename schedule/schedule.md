@@ -36,7 +36,7 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 |           | ShortTie | |
 | 1730~1800 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Rehr | |
-| 1800~1850 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | Discord: #hhv-meetups-A, #hhv-meetups-B, #hhv-meetups-C, and #hhv-meetups-A-voice
+| 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | Discord: #hhv-meetups-A, #hhv-meetups-B, #hhv-meetups-C, and #hhv-meetups-A-voice
 |           | Chris Gammell | |
 
 ### Saturday
@@ -45,9 +45,9 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 |-----------|--------|----------|
 | 1300~1330 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Rehr | |
-| 1400~1430 | Meetup - [Discussion on Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1400~1430 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Bombnav | |
-| 1500~1530 | Meetup - [Discussion on OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetupds-A-voice
+| 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetupds-A-voice
 |           | Josh Marks | |
 | 1600~1630 | Meetup - [Certification Processes (UL, FCC, etc)](#certification-processes-ul-fcc-etc) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | ShortTie | |
@@ -56,7 +56,7 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 1000~1030 | Meetup - [Discussion on Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1000~1030 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Bombnav | |
 | 1230~1300 | Meetup - [Wearables](#wearables) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice"
 |           | ShortTie | |
@@ -70,38 +70,38 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 1000~1030 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
-| 1100~1150 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Federico Lucifredi | |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
+| 1100~1200 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+|           | Federico Lucifredi (@0xF2) | |
 | 1230~1300 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Luis Angel Ramirez Mendoza, Mauro Eldritch | |
-| 1330~1420 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
+|           | Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), Luis Ángel Ramírez Mendoza (@larm182luis) | |
+| 1330~1430 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
 
 ### Saturday
 
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 0830~0900 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
-| 0930~1020 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Federico Lucifredi | |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
+| 0930~1030 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+|           | Federico Lucifredi (@0xF2) | |
 | 1100~1030 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Luis Angel Ramirez Mendoza, Mauro Eldritch | |
+|           | Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), Luis Ángel Ramírez Mendoza (@larm182luis) | |
 | 1200~1230 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
 
 ### Sunday
 
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 0830~0900 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
-| 1130~1220 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
+| 0900~0930 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
+| 1130~1230 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
 | 1400~1430 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
-|           | Joseph Long (hwbxr) | |
+|           | Joseph Long (hwbxr) @HackerBoxes | |
 
 
 ## Meetup Details
@@ -154,7 +154,7 @@ A place to meet people with the same interests or challenges and discuss. The me
 ## Talk/Workshop Details
 * * *
 ### Learn To Solder The Badgebuddy Kit
-Joseph Long (hwbxr)
+Joseph Long (hwbxr) @HackerBoxes
 #### Abstract
 As part of an ongoing educational mission, HackerBoxes usually gives away thousands of little solder kits at DEF CON.  For DEF CON 28 SAFE MODE, a special edition BadgeBuddy soldering kit has been designed.  While still free (as in beer), there will be a $1 charge for DC28 SAFE MODE to cover shipping the kit anywhere in the United States.
 
@@ -162,10 +162,10 @@ The BadgeBuddy is a simple and fun kit to introduce basic soldering skills. Once
 
 The BadgeBuddy Solder Kits can be obtained at HackerBoxes.com and will ship starting on July 20 for delivery by DC28.  During DC28 SAFE MODE, a live video workshop will allow participants to work together as a group, possibly setting a world record for group building of a solder kit.  For those who do not have soldering tools on hand, HackerBoxes has made a set of basic soldering tools available at cost.
 #### Bio
-Joseph Long (hwbxr) is the founder of HackerBoxes: the monthly subscription box for DIY electronics, computer technology, and hacker culture.  He has extensive experience in technology R&D and is an attorney of technology law.  A former member of the research faculty at Georgia Tech, Joseph is a licensed professional engineer, amateur radio volunteer examiner, past IEEE senior member and chair of multiple IEEE chapters.  He has directed or contributed to numerous engineering projects in diverse technology areas including digital and embedded systems, medical devices, broadband communications, and information security.  Joseph has provided engineering expertise to technology startups, Fortune 500 companies, NASA, various other government agencies, and research laboratories.  He has also prepared and prosecuted hundreds of patent applications for technology leaders such as Google, Microsoft, IBM, AT&T, Cisco, and Boeing as well as technology startups and various university clients.
+Joseph Long (hwbxr) @HackerBoxes is the founder of HackerBoxes: the monthly subscription box for DIY electronics, computer technology, and hacker culture.  He has extensive experience in technology R&D and is an attorney of technology law.  A former member of the research faculty at Georgia Tech, Joseph is a licensed professional engineer, amateur radio volunteer examiner, past IEEE senior member and chair of multiple IEEE chapters.  He has directed or contributed to numerous engineering projects in diverse technology areas including digital and embedded systems, medical devices, broadband communications, and information security.  Joseph has provided engineering expertise to technology startups, Fortune 500 companies, NASA, various other government agencies, and research laboratories.  He has also prepared and prosecuted hundreds of patent applications for technology leaders such as Google, Microsoft, IBM, AT&T, Cisco, and Boeing as well as technology startups and various university clients.
 * * *
 ### Hardware Hacking 101: There Is Plenty Of Room At The Bottom
-Federico Lucifredi
+Federico Lucifredi (@0xF2)
 #### Abstract
 This is a live demonstration of hacking into the processor embedded in an SD card, effectively turning the device into a potentially covert Raspberry Pi-class computer under your complete control. The ARM926EJ-S ARM processor made its appearance as the embedded CPU in Transcend’s WiFi-enabled SD cards, clocking in at an impressive 426 BogoMips – we can’t possibly leave that territory unexplored, can we?
 
@@ -177,10 +177,10 @@ There is plenty of room at the bottom, and opening these computer-within-the com
 
 Use your newfound knowledge for good, with great power comes great responsibility!
 #### Bio
-Federico Lucifredi is the Product Management Director for Ceph Storage at Red Hat and a co-author of O'Reilly's "Peccary Book" on AWS System Administration. Previously, he was the Ubuntu Server product manager at Canonical, where he oversaw a broad portfolio and the rise of Ubuntu Server to the rank of most popular OS on Amazon AWS. A software engineer-turned-manager at the Novell corporation, he was part of the SUSE Linux team, overseeing the update lifecycle and delivery stack of a $150 million maintenance business. A CIO and a network software architect at advanced technology and embedded Linux startups, Federico was also a lecturer for over 200 students in Boston University's graduate and undergraduate programs, and simultaneously a consultant for MIT implementing fluid-dynamics simulations in Java.
+Federico Lucifredi is the Product Management Director for Ceph Storage at Red Hat and a co-author of O'Reilly's "Peccary Book" on AWS System Administration. Previously, he was the Ubuntu Server product manager at Canonical, where he oversaw a broad portfolio and the rise of Ubuntu Server to the rank of most popular OS on Amazon AWS.
 * * *
 ### Onkeypress=Hack();
-Luis Angel Ramirez Mendoza Secondary Speaker: Mauro Eldritch
+Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), and Luis Ángel Ramírez Mendoza (@larm182luis)
 #### Abstract
 In this talk we will see the assembly and use of a modified BadUSB keyboard with an integrated DIY physical keylogger.
 Using a built-in WiFi module, this keyboard is capable of sending user keystrokes to a remote server and storing it in a database.
@@ -188,13 +188,15 @@ Both the piece by piece assembly, its diagram, and its programming will be demon
 
 This talk is recommended for both novice and experienced users alike.
 #### Bio
-Mauro Cáseres (@mauroeldritch) is an argentine hacker and speaker. He spoke at DEF CON 26 Las Vegas (Recon & Data Duplication Villages), DevFest Siberia, DragonJAR Colombia, Roadsec Brasil, and DC7831 Nizhny Novgorod.
+Mauro Cáseres (@mauroeldritch) is an argentine hacker and speaker. He spoke at DEF CON Las Vegas (Recon, Red Team & Data Duplication Villages), DevFest Siberia, DragonJAR Colombia, Roadsec Brasil, and DC7831 Nizhny Novgorod. He is the founder of DC5411 Argentina
+
+Farith Pérez Sáez (@f_perezs) is a colombian engineer, hardware hacker and speaker. He spoke at DragonJAR Colombia (Biggest hacking spanish speaking conference in LATAM) and teaches at Universidad de La Guajira.
 
 Luis Ángel Ramírez Mendoza (@larm182luis) is a colombian electronic engineer, hacker and speaker. He spoke at DragonJAR Colombia (Biggest hacking spanish speaking conference in LATAM) and is currently working as a Cybersecurity and Artificial Intelligence Professor at University of Guajira in Colombia.
 
 * * *
 ### HackerBox 0057 Build Session
-Joseph Long (hwbxr)
+Joseph Long (hwbxr) @HackerBoxes
 #### Abstract
 "Build HackerBox 0057 to explore microcontroller programming, IoT WiFi exploits, Bluetooth control, IR hacks, lockpicking tools, audio/video signaling, and more.  HackerBoxes are the monthly subscription box for DIY electronics and computer technology.  Each monthly HackerBox is a surprise.  But this month the cathode is out of the bag, so to speak.  The theme is SAFE MODE.
 
@@ -202,7 +204,7 @@ There will be an indie badge kit featuring dual core ESP32, IPS full-color 240x1
 
 Monthly HackerBoxes usually ship around the last day of the month.  However, SAFE MODE HackerBox 0057 will ship a few days early (for both existing a new members) and should be received in time for DEF CON 28 SAFE MODE.  We recommend ordering by July 22, but earlier is always better in light of recent postal delays."
 #### Bio
-Joseph Long (hwbxr) is the founder of HackerBoxes: the monthly subscription box for DIY electronics, computer technology, and hacker culture. He has extensive experience in technology R&D and is an attorney of technology law. A former member of the research faculty at Georgia Tech, Joseph is a licensed professional engineer, amateur radio volunteer examiner, past IEEE senior member and chair of multiple IEEE chapters. He has directed or contributed to numerous engineering projects in diverse technology areas including digital and embedded systems, medical devices, broadband communications, and information security. Joseph has provided engineering expertise to technology startups, Fortune 500 companies, NASA, various other government agencies, and research laboratories. He has also prepared and prosecuted hundreds of patent applications for technology leaders such as Google, Microsoft, IBM, AT&T, Cisco, and Boeing as well as technology startups and various university clients.
+Joseph Long (hwbxr) @HackerBoxes is the founder of HackerBoxes: the monthly subscription box for DIY electronics, computer technology, and hacker culture. He has extensive experience in technology R&D and is an attorney of technology law. A former member of the research faculty at Georgia Tech, Joseph is a licensed professional engineer, amateur radio volunteer examiner, past IEEE senior member and chair of multiple IEEE chapters. He has directed or contributed to numerous engineering projects in diverse technology areas including digital and embedded systems, medical devices, broadband communications, and information security. Joseph has provided engineering expertise to technology startups, Fortune 500 companies, NASA, various other government agencies, and research laboratories. He has also prepared and prosecuted hundreds of patent applications for technology leaders such as Google, Microsoft, IBM, AT&T, Cisco, and Boeing as well as technology startups and various university clients.
 * * *
 
 
