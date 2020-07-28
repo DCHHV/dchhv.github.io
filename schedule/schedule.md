@@ -29,13 +29,13 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 0930~1000 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
-|           | Rehr | |
+|           | Rob Rehr | |
 | 1430~1500 | Meetup - [PCB Proto and Rework](#pcb-proto-and-rework) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | ShortTie | |
 | 1530~1600 | Meetup - [Legacy Hardware](#legacy-hardware) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | ShortTie | |
 | 1730~1800 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
-|           | Rehr | |
+|           | Rob Rehr | |
 | 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | Discord: #hhv-meetups-A, #hhv-meetups-B, #hhv-meetups-C, and #hhv-meetups-A-voice
 |           | Chris Gammell | |
 
@@ -44,7 +44,7 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 | Time      | Events | Location |
 |-----------|--------|----------|
 | 1300~1330 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
-|           | Rehr | |
+|           | Rob Rehr | |
 | 1400~1430 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Bombnav | |
 | 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetupds-A-voice
@@ -107,7 +107,7 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 ## Meetup Details
 * * *
 ### Some HHV Challenges
-@rehr
+Rob Rehr
 #### Description
 HHV members have created a few challenges for this year's DEF CON. Come learn and chat about those challenges, or bring new challenges to share with the community. This time will start with an introduction to this year's HHV challenges, but the remaining time will be open to community questions and conversations
 * * *
