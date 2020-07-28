@@ -1,6 +1,6 @@
 ---
 title: DEF CON 28
-subtitle: August 6-9, 2020 at the new Caesars Forum, Harrah's, Linq, and Flamingo Hotels, Las Vegas
+subtitle: August 6-9, 2020 taking place across multiple internet services. See the [DEF CON Website](https://defcon.org/) for up to date information.
 layout: main
 ---
 
