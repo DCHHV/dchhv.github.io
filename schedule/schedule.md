@@ -86,7 +86,7 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 |           | Joseph Long (hwbxr) @HackerBoxes | |
 | 0930~1030 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Federico Lucifredi (@0xF2) | |
-| 1100~1030 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1100~1130 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), Luis Ángel Ramírez Mendoza (@larm182luis) | |
 | 1200~1230 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
