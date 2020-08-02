@@ -47,7 +47,7 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 |           | Rob Rehr | |
 | 1400~1430 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Bombnav | |
-| 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetupds-A-voice
+| 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | Josh Marks | |
 | 1600~1630 | Meetup - [Certification Processes (UL, FCC, etc)](#certification-processes-ul-fcc-etc) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
 |           | ShortTie | |
