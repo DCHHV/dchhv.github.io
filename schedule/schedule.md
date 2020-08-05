@@ -12,6 +12,8 @@ layout: page
 
 [Talk/Workshop Schedule](#talkworkshop-schedule)
 
+[Discord Channel Listing](#discord-channel-listing)
+
 [Meetup Details](#meetup-details)
 
 [Talk/Workshop Details](#talkworkshop-details)
@@ -28,39 +30,41 @@ With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 0930~1000 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 0930~1000 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Rob Rehr | |
-| 1430~1500 | Meetup - [PCB Proto and Rework](#pcb-proto-and-rework) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1430~1500 | Meetup - [PCB Proto and Rework](#pcb-proto-and-rework) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | ShortTie | |
-| 1530~1600 | Meetup - [Legacy Hardware](#legacy-hardware) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1530~1600 | Meetup - [Legacy Hardware](#legacy-hardware) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | ShortTie | |
-| 1730~1800 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1730~1800 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Rob Rehr | |
-| 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | Discord: #hhv-meetups-A, #hhv-meetups-B, #hhv-meetups-C, and #hhv-meetups-A-voice
+| 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | TBD
 |           | Chris Gammell | |
 
 ### Saturday
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 1300~1330 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1300~1330 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Rob Rehr | |
-| 1400~1430 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1400~1430 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Bombnav | |
-| 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1500~1530 | Meetup - [OSS ASIC](#oss-asic) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Josh Marks | |
-| 1600~1630 | Meetup - [Certification Processes (UL, FCC, etc)](#certification-processes-ul-fcc-etc) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1600~1630 | Meetup - [Certification Processes (UL, FCC, etc)](#certification-processes-ul-fcc-etc) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | ShortTie | |
 
 ### Sunday
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 1000~1030 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice
+| 1000~1030 | Meetup - [Sourcing Parts](#sourcing-parts) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Bombnav | |
-| 1230~1300 | Meetup - [Wearables](#wearables) | Discord: #hhv-meetups-A and #hhv-meetups-A-voice"
+| 1230~1300 | Meetup - [Wearables](#wearables) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | ShortTie | |
 
+<br/>
+<br/>
 
 ## Talk/Workshop Schedule
 All of our talks and workshops will be run multiple times throughout DEF CON 28 Safe Mode and are staggered to help ensure attendees from around the world can be a part of them.
@@ -69,26 +73,26 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 1000~1030 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1000~1030 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
-| 1100~1200 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1100~1200 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: [#hhv-hw101-talk-qa-text](https://discord.com/channels/708208267699945503/709255105479704636) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Federico Lucifredi (@0xF2) | |
-| 1230~1300 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1230~1300 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: [#hhv-onkeypresshack-talk-qa-text](https://discord.com/channels/708208267699945503/736750677128249360) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), Luis Ángel Ramírez Mendoza (@larm182luis) | |
-| 1330~1430 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1330~1430 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
 
 ### Saturday
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 0830~0900 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 0830~0900 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
-| 0930~1030 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: #hhv-hw101-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 0930~1030 | Talk - [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) | Discord: [#hhv-hw101-talk-qa-text](https://discord.com/channels/708208267699945503/709255105479704636) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Federico Lucifredi (@0xF2) | |
-| 1100~1130 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: #hhv-onkeypresshack-talk-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1100~1130 | Talk - [Onkeypress=Hack();](#onkeypresshack) | Discord: [#hhv-onkeypresshack-talk-qa-text](https://discord.com/channels/708208267699945503/736750677128249360) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Mauro Cáseres (@mauroeldritch), Farith Pérez Sáez (@f_perezs), Luis Ángel Ramírez Mendoza (@larm182luis) | |
-| 1200~1230 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1200~1230 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
 
 ### Sunday
@@ -96,13 +100,46 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 
 | Time      | Events | Location |
 |-----------|--------|----------|
-| 0900~0930 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 0900~0930 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
-| 1130~1230 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1130~1230 | Talk - [HackerBox 0057 Build Session](#hackerbox-0057-build-session) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
-| 1400~1430 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: #hhv-badgebuddy-q&a (text only) & [Twitch](https://www.twitch.tv/dchhv) |
+| 1400~1430 | Virtual Soldering Workshop - [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) | Discord: [#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214) (text only) & [Twitch](https://www.twitch.tv/dchhv) |
 |           | Joseph Long (hwbxr) @HackerBoxes | |
 
+<br/>
+<br/>
+
+## Discord Channel Listing
+[#hhv-welcome-text](https://discord.com/channels/708208267699945503/732728536149786665)
+* Welcome channel plus general Q&A; text only
+
+[#hhv-general-text](https://discord.com/channels/708208267699945503/739571364821729310)
+* Anything and everything hardware hacking that does not specifically fit anywhere else; text only
+
+[#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533)
+* Our meetups are all held here, see the [Meetup Schedule](#meetup-schedule) for what is happening and when; text only
+
+[#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739567085004521533)
+* Voice channel to accompany the meetups, see the [Meetup Schedule](#meetup-schedule) for what is happening and when; voice only (The link directly joins the #hhv-meetups-a-text channel, when there, click on the voice channel to join)
+
+[#hhv-badgebuddy-qa-text](https://discord.com/channels/708208267699945503/709254868329693214)
+* Channel hosting the Q&A for the [Learn To Solder The Badgebuddy Kit](#learn-to-solder-the-badgebuddy-kit) and [HackerBox 0057 Build Session](#hackerbox-0057-build-session) workshops; text only
+
+[#hhv-hw101-talk-qa-text](https://discord.com/channels/708208267699945503/709255105479704636)
+* Channel hosting the Q&A for the [Hardware Hacking 101: There Is Plenty Of Room At The Bottom](#hardware-hacking-101-there-is-plenty-of-room-at-the-bottom) workshops; text only
+
+[#hhv-onkeypresshack-talk-qa-text](https://discord.com/channels/708208267699945503/736750677128249360)
+* Channel hosting the Q&A for the [Onkeypress=Hack();](#onkeypresshack) workshops; text only
+
+[#hhv-rework-text](https://discord.com/channels/708208267699945503/709255057543266347)
+* For sharing and discussing PCB bodges, repairs, reworks, and unique designs; text only
+
+[#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)
+* A place to discuss HHV challenges, past, present, and future; text only
+
+<br/>
+<br/>
 
 ## Meetup Details
 * * *
