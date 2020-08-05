@@ -24,7 +24,9 @@ layout: page
 <br/>
 
 ## Meetup Schedule
-With DEF CON 28 Safe Mode, we're adding a heavy focus on meetups. Where there is either a led discusson or an open group of people with a common interest. These take place in both text and voice chat. Some of them are repeated multiple times throughout DEF CON 28 Safe Mode in order to allow attendees from around the world to participate. While not all are repeated, we encourage you to continue the conversations.
+With DEF CON 28 Safe Mode, we’re introducing a new-old idea, meetups. We have found over the years that some of the best content in our village came about organically. A couple of like minded hackers happened to be in the same place when the right topic came up, and suddenly a ton of good information is flying around and a crowd is assembling. Rather than wait for these random events, we thought we could create a space and a time for specific topics and see how it goes.
+
+In some cases we have someone with interest to seed the discussion, others there is just a topic and an invite for people with a common interest. These take place in both text and voice chat. Some of them are repeated multiple times throughout DEF CON 28 Safe Mode in order to allow attendees from around the world to participate. While not all are repeated, we encourage you to continue the conversations. The meetup is a nexus for finding and starting the conversation. A place to meet people with the same interests or challenges and discuss. Bring your expertise and your questions.
 
 ### Friday
 
@@ -151,12 +153,12 @@ HHV members have created a few challenges for this year's DEF CON. Come learn an
 ### PCB Proto and Rework
 ShortTie
 #### Description
-A place to meet people with the same interests or challenges and discuss. The meetup is a nexus for finding and starting the conversation. Bring your expertise and your questions.
+Have any tips for making it through the initial PCB process? Does that part being the wrong orientation really mean you have to wait weeks for a new PCB? What are the checks you do when getting that first draft ready for fabrication? How do you keep track of versioning and component availability?
 * * *
 ### Legacy Hardware
 ShortTie
 #### Description
-A place to meet people with the same interests or challenges and discuss. The meetup is a nexus for finding and starting the conversation. Bring your expertise and your questions.
+Old computers don’t die, well at least in some skilled hands. Keeping old machines alive can mean some clever part sourcing, some interesting reinvention of functionality with newer components, and arcane knowledge of the oddities of the individual platform. Some do it for fun, some for a living. What equipment do you keep working? How do you address the stresses that come with age? Any pictures of the setup you maintain?
 * * *
 ### 3H: Hardware Happy Hour
 Chris Gammell
@@ -176,12 +178,12 @@ Come geek out about the new Google + efabless + Skywater 130 nm Process Design K
 ### Certification Processes (UL, FCC, etc.)
 ShortTie
 #### Description
-A place to meet people with the same interests or challenges and discuss. The meetup is a nexus for finding and starting the conversation. Bring your expertise and your questions.
+Getting a product to market can include a long walk in the nearly unknown dark drama of certifications. Getting the right version of the prototype through the right stages is a mystery to all but the few that face that hurtle consistently. What certificates are needed for what kinds of markets? How do you handle testing on prototypes where functionality is still evolving? How do you make sure your equipment is ready for the rigors of the process? Any horror stories to share? Lessons to learn from?
 * * *
 ### Wearables
 ShortTie
 #### Description
-A place to meet people with the same interests or challenges and discuss. The meetup is a nexus for finding and starting the conversation. Bring your expertise and your questions.
+Wearable compute has some interesting challenges. They need to be light, flexible, resilient and often times the messy parts need to be hidden. They can be purely for show, like LED earrings. Hi-tech functionality, like discreet surveillance equipment. Or high functioning, like a connected watch or sensor grid for monitoring. How do you power your setup? How do you launder it? How do you keep it from catching fire or burning the wearer?
 * * *
 
 <br/>
