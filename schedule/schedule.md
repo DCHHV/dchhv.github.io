@@ -40,7 +40,7 @@ In some cases we have someone with interest to seed the discussion, others there
 |           | ShortTie | |
 | 1730~1800 | Meetup - [Some HHV challenges](#some-hhv-challenges) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Rob Rehr | |
-| 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | TBD
+| 1800~1900 | Meetup - [3H: Hardware Happy Hour](#3h-hardware-happy-hour) | Discord: [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and [#hhv-meetups-a-voice](https://discord.com/channels/708208267699945503/739571117756383333)
 |           | Chris Gammell | |
 
 ### Saturday
