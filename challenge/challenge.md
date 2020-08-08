@@ -46,6 +46,8 @@ We found a strange, random 7-segment display laying around, but it was flashing 
 <br>
 
 ### Challenge 5
+We found another one of those displays laying around, but it seems this one is a bit more complex. Not only is it a 16-segment display, it seems to have some extra ICs on the board to modify the signals coming out of the controller. Whatever it was displaying was flashing far too fast for us to read, so we quickly did a signal capture (aligning capture channel with the numbers marked on the PCB's silkscreen) and got out of there.
 
-_Coming Soon._
-<!-- [Challenge 5 Capture](/assets/challenge/challenge5.logicdata) -->
+It seems whoever had made that device had fabricated the PCB on a public site and we were able to retrieve the Gerber files! Can you help us reverse engineer the circuit and recover what was being set on the 16-segment display?
+
+[Challenge 5 Capture (zip)](/assets/challenge/challenge5.zip)
