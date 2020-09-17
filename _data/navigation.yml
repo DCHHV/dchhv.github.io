@@ -4,8 +4,8 @@ main:
      url: /
    - title: "About"
      url: /about.html
-   - title: "Challenge"
-     url: /challenge/challenge.html
+   - title: "Challenges"
+     url: /challenges/index.html
    - title: "Project Blog"
      url: /projects.html
    - title: "Schedule"
