@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## Hackfest 2020 challenge
+A new challenge released for Hackfest 2020. This is meant to be the 6th challenge in our HHV Challenge series.
+
+[Hackfest 2020 Challenge](/challenges/hf2020.html)
+
 ## DEF CON 28 Challenge
 This challenge consists of 5 parts that range in difficulty. It is not necessary to complete them in any specific order, but doing so might help with the progression between them. Additionally, each challenge has some related text that might be useful on the path to the solution.
 
