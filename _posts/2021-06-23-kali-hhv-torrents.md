@@ -18,7 +18,7 @@ Note that we will keep seeding these torrents up until and through DEF CON. Afte
 
 * * *
 ## HHV
-The HHV variant is a customized Kali variant created by us. It uses XFCE4 as the GUI. It includes all of the standard Kali boot features (memtest, install to disk, live, live forensic mode, USB persist, etc.), all of the WiFi device firmware that is in kali-rolling at time of build, and a whole lot of utilities for hardware and embedded device hacking. It weighs in at about 2.7 GB, so it fits nicely on a standard DVD or 4 GB USB flash drive with room to spare. We built both i386 and amd64 CPU variants and have made torrents of them available below.
+The HHV variant is a customized Kali variant created by us. It uses XFCE4 as the GUI. It includes all of the standard Kali boot features (memtest, install to disk, live, live forensic mode, USB persist, etc.), all of the WiFi device firmware that is in kali-rolling at time of build, and a whole lot of utilities for hardware and embedded device hacking. It weighs in at about 3.8 GB, so it fits nicely on a standard DVD or 4 GB USB flash drive with room to spare. We built both i386 and amd64 CPU variants and have made torrents of them available below.
 
 * [HHV amd64 torrent magnet link](magnet:?xt=urn:btih:fee1f2ada0d5ea4a0f3028ec42a07d10d72f9c7c&dn=kali-linux-rolling-live-hhv-amd64-20210619.iso&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80)
 
