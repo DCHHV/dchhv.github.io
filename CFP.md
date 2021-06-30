@@ -1,6 +1,7 @@
 ---
 title: Call for Papers
 layout: page
+image: assets/images/header_logo.png
 ---
 
 ## Talks/Demos/Hands-on Workshops
