@@ -221,7 +221,11 @@ Gigs
 
 #### Abstract
 
-Electricity has, from the earliest history of man, been seen as an almost mystical force.  From Thor's lightning onward, various individuals and groups have used electricity and electrical devices to baffle, mystify, mislead, and control people.  In the modern day, this practice continues in the form of polygraph, questionable uses of fMRI and EEG, and other high-tech props intended to dazzle the victim or lend a technological veneer of credibility to the user.   This talk will focus on the history and current applications of deception by and with electrical and electronic devices.	"Gigs is the founder of ##electronics on Freenode (may it rest in peace), and a long time electronics enthusiast and DEF CON HHV volunteer.  He, working with see_ess, did the PCB and hardware design for this year's TorBadge, a mini-polygraph device.
+Electricity has, from the earliest history of man, been seen as an almost mystical force.  From Thor's lightning onward, various individuals and groups have used electricity and electrical devices to baffle, mystify, mislead, and control people.  In the modern day, this practice continues in the form of polygraph, questionable uses of fMRI and EEG, and other high-tech props intended to dazzle the victim or lend a technological veneer of credibility to the user.   This talk will focus on the history and current applications of deception by and with electrical and electronic devices.
+
+#### Bio
+
+Gigs is the founder of ##electronics on Freenode (may it rest in peace), and a long time electronics enthusiast and DEF CON HHV volunteer.  He, working with see_ess, did the PCB and hardware design for this year's TorBadge, a mini-polygraph device.
 
 Social Media: @gigstaggart twitter
 Website: gigsatdc.org
