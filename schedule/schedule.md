@@ -32,23 +32,23 @@ In some cases we have someone with interest to seed the discussion, others there
 
 ### Friday
 
-| Start Time| End Time| Events | Location |
-|-----------|---------|--------|----------|
-| 9:30  | 10:00 | Meetup: Some HHV Challenges  | #hhv-challgenge and #hhv-meetups-A-voice |
-| 14:30 | 15:00 | Meetup: PCB Proto and Rework | #hhv-meetups-A and #hhv-meetups-A-voice  |
-| 15:00 | 15:30 | Robo Sumo On site            | HHV IRL                                  |
-| 15:30 | 16:00 | Meetup: Legacy Hardware      | #hhv-meetups-A and #hhv-meetups-A-voice  |
-| 17:30 | 18:00 | Meetup: Some HHV Challenges  | #hhv-challgenge and #hhv-meetups-A-voice |
+| Start Time  | End Time  | Events                                                                                                                                               | Location                                |
+| ----------- | --------- | --------                                                                                                                                             | ----------                              |
+| 9:30        | 10:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
+| 14:30       | 15:00     | Meetup: [PCB Proto and Rework](#pcb-proto-and-rework)                                                                                                | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 15:00       | 15:30     | [Robo Sumo On site](#robo-sumo-on-site)                                                                                                              | HHV IRL                                 |
+| 15:30       | 16:00     | Meetup: [Legacy Hardware](#legacy-hardware)                                                                                                          | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 17:30       | 18:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
 
 
 ### Saturday
 
 | Start Time| End Time| Events | Location |
 |-----------|---------|--------|----------|
-| 13:00 | 13:30 | Meetup: Some HHV Challenges                        | #hhv-challgenge and #hhv-meetups-A-voice |
-| 14:00 | 14:30 | Meetup: Sourcing Parts & The Global Parts Shortage | #hhv-meetups-A and #hhv-meetups-A-voice  |
-| 15:00 | 15:30 | Meetup: OSS ASIC                                   | #hhv-meetups-A and #hhv-meetups-A-voice  |
-| 16:00 | 16:30 | Meetup: Certification Processes (UL, FCC, etc.)    | #hhv-meetups-A and #hhv-meetups-A-voice  |
+| 13:00       | 13:30     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
+| 14:00       | 14:30     | Meetup: [Sourcing Parts & The Global Parts Shortage](#sourcing-parts--the-global-parts-shortage)                                                     | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 15:00       | 15:30     | Meetup: [OSS ASIC](#oss-asic)                                                                                                                        | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 16:00       | 16:30     | Meetup: [Certification Processes (UL, FCC, etc.)](#certification-processes-ul-fcc-etc)                                                               | #hhv-meetups-A and #hhv-meetups-A-voice |
 
 
 <br/>
@@ -61,35 +61,35 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 
 ### Friday
 
-| Start Time| End Time| Events | Location |
-|-----------|---------|--------|----------|
-| 10:00 | 10:30 | Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables           | #hhv-talk-qa-hw-hacking-101-text    |
-| 11:00 | 12:00 | Use a PortaProg to flash, dump, and test ISP and UPDI chips              | #hhv-talk-qa-use-a-portaprog-text   |
-| 12:00 | 12:30 | The Black Box and the Brain Box:  When Electronics and Deception Collide | #hhv-talk-qa-blackbox-brainbox-text |
-| 12:30 | 13:30 | Walkthrough of DC 28 HHV Challenges                                      | #hhv-challgenge-text                |
-| 13:30 | 14:30 | A Lazy r2 Solve of @mediumrehr Challenge 6                               | #hhv-challgenge-text                |
+| Start Time  | End Time  | Events                                                                                                                                               | Location                                |
+| ----------- | --------- | --------                                                                                                                                             | ----------                              |
+| 10:00       | 10:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
+| 11:00       | 12:00     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
+| 12:00       | 12:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
+| 12:30       | 13:30     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
+| 13:30       | 14:30     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
 
 
 ### Saturday
 
-| Start Time| End Time| Events | Location |
-|-----------|---------|--------|----------|
-| 8:30  | 9:00  | Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables           | #hhv-talk-qa-hw-hacking-101-text    |
-| 9:30  | 10:30 | Use a PortaProg to flash, dump, and test ISP and UPDI chips              | #hhv-talk-qa-use-a-portaprog-text   |
-| 10:30 | 11:00 | The Black Box and the Brain Box:  When Electronics and Deception Collide | #hhv-talk-qa-blackbox-brainbox-text |
-| 11:00 | 12:00 | Walkthrough of DC 28 HHV Challenges                                      | #hhv-challgenge-text                |
-| 12:00 | 13:00 | A Lazy r2 Solve of @mediumrehr Challenge 6                               | #hhv-challgenge-text                |
+| Start Time  | End Time  | Events                                                                                                                                               | Location                                |
+| ----------- | --------- | --------                                                                                                                                             | ----------                              |
+| 8:30        | 9:00      | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
+| 9:30        | 10:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
+| 10:30       | 11:00     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
+| 11:00       | 12:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
+| 12:00       | 13:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
 
 
 ### Sunday
 
-| Start Time| End Time| Events | Location |
-|-----------|---------|--------|----------|
-| 9:00  | 10:00 | Walkthrough of DC 28 HHV Challenges                                      | #hhv-challgenge-text                |
-| 10:00 | 11:00 | A Lazy r2 Solve of @mediumrehr Challenge 6                               | #hhv-challgenge-text                |
-| 11:30 | 12:30 | Use a PortaProg to flash, dump, and test ISP and UPDI chips              | #hhv-talk-qa-use-a-portaprog-text   |
-| 14:00 | 14:30 | Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables           | #hhv-talk-qa-hw-hacking-101-text    |
-| 15:00 | 15:30 | The Black Box and the Brain Box:  When Electronics and Deception Collide | #hhv-talk-qa-blackbox-brainbox-text |
+| Start Time  | End Time  | Events                                                                                                                                               | Location                                |
+| ----------- | --------- | --------                                                                                                                                             | ----------                              |
+| 9:00        | 10:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
+| 10:00       | 11:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
+| 11:30       | 12:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
+| 14:00       | 14:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
+| 15:00       | 15:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
 
 
 <br/>
