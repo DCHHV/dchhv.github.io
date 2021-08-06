@@ -34,21 +34,21 @@ In some cases we have someone with interest to seed the discussion, others there
 
 | Start Time  | End Time  | Events                                                                                                                                               | Location                                |
 | ----------- | --------- | --------                                                                                                                                             | ----------                              |
-| 9:30        | 10:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
-| 14:30       | 15:00     | Meetup: [PCB Proto and Rework](#pcb-proto-and-rework)                                                                                                | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 9:30        | 10:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702) and #hhv-meetups-A-voice |
+| 14:30       | 15:00     | Meetup: [PCB Proto and Rework](#pcb-proto-and-rework)                                                                                                | [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and #hhv-meetups-A-voice |
 | 15:00       | 15:30     | [Robo Sumo On site](#robo-sumo-on-site)                                                                                                              | HHV IRL                                 |
-| 15:30       | 16:00     | Meetup: [Legacy Hardware](#legacy-hardware)                                                                                                          | #hhv-meetups-A and #hhv-meetups-A-voice |
-| 17:30       | 18:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
+| 15:30       | 16:00     | Meetup: [Legacy Hardware](#legacy-hardware)                                                                                                          | [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and #hhv-meetups-A-voice |
+| 17:30       | 18:00     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702) and #hhv-meetups-A-voice |
 
 
 ### Saturday
 
 | Start Time| End Time| Events | Location |
 |-----------|---------|--------|----------|
-| 13:00       | 13:30     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | #hhv-challenge and #hhv-meetups-A-voice |
-| 14:00       | 14:30     | Meetup: [Sourcing Parts & The Global Parts Shortage](#sourcing-parts--the-global-parts-shortage)                                                     | #hhv-meetups-A and #hhv-meetups-A-voice |
-| 15:00       | 15:30     | Meetup: [OSS ASIC](#oss-asic)                                                                                                                        | #hhv-meetups-A and #hhv-meetups-A-voice |
-| 16:00       | 16:30     | Meetup: [Certification Processes (UL, FCC, etc.)](#certification-processes-ul-fcc-etc)                                                               | #hhv-meetups-A and #hhv-meetups-A-voice |
+| 13:00       | 13:30     | Meetup: [Some HHV challenges](#some-hhv-challenges)                                                                                                  | [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702) and #hhv-meetups-A-voice |
+| 14:00       | 14:30     | Meetup: [Sourcing Parts & The Global Parts Shortage](#sourcing-parts--the-global-parts-shortage)                                                     | [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and #hhv-meetups-A-voice |
+| 15:00       | 15:30     | Meetup: [OSS ASIC](#oss-asic)                                                                                                                        | [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and #hhv-meetups-A-voice |
+| 16:00       | 16:30     | Meetup: [Certification Processes (UL, FCC, etc.)](#certification-processes-ul-fcc-etc)                                                               | [#hhv-meetups-a-text](https://discord.com/channels/708208267699945503/739567085004521533) and #hhv-meetups-A-voice |
 
 
 <br/>
@@ -63,33 +63,33 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 
 | Start Time  | End Time  | Events                                                                                                                                               | Location                                |
 | ----------- | --------- | --------                                                                                                                                             | ----------                              |
-| 10:00       | 10:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
-| 11:00       | 12:00     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
-| 12:00       | 12:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
-| 12:30       | 13:30     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
-| 13:30       | 14:30     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
+| 10:00       | 10:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-hw-hacking-101-text](https://discord.com/channels/708208267699945503/709255105479704636)        |
+| 11:00       | 12:00     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-use-a-portaprog-text](https://discord.com/channels/708208267699945503/739571364821729310)       |
+| 12:00       | 12:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-blackbox-brainbox-text](https://discord.com/channels/708208267699945503/709254868329693214)     |
+| 12:30       | 13:30     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                     |
+| 13:30       | 14:30     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                     |
 
 
 ### Saturday
 
 | Start Time  | End Time  | Events                                                                                                                                               | Location                                |
 | ----------- | --------- | --------                                                                                                                                             | ----------                              |
-| 8:30        | 9:00      | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
-| 9:30        | 10:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
-| 10:30       | 11:00     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
-| 11:00       | 12:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
-| 12:00       | 13:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
+| 8:30        | 9:00      | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-hw-hacking-101-text](https://discord.com/channels/708208267699945503/709255105479704636)        |
+| 9:30        | 10:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-use-a-portaprog-text](https://discord.com/channels/708208267699945503/739571364821729310)       |
+| 10:30       | 11:00     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-blackbox-brainbox-text](https://discord.com/channels/708208267699945503/709254868329693214)     |
+| 11:00       | 12:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                     |
+| 12:00       | 13:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                    |
 
 
 ### Sunday
 
 | Start Time  | End Time  | Events                                                                                                                                               | Location                                |
 | ----------- | --------- | --------                                                                                                                                             | ----------                              |
-| 9:00        | 10:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | #hhv-challenge-text                     |
-| 10:00       | 11:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | #hhv-challenge-text                     |
-| 11:30       | 12:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | #hhv-talk-qa-use-a-portaprog-text       |
-| 14:00       | 14:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | #hhv-talk-qa-hw-hacking-101-text        |
-| 15:00       | 15:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | #hhv-talk-qa-blackbox-brainbox-text     |
+| 9:00        | 10:00     | [Walkthrough of DC 28 HHV Challenges](#walkthrough-of-dc-28-hhv-challenges)                                                                          | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                    |
+| 10:00       | 11:00     | [A Lazy r2 Solve of @mediumrehr Challenge 6](#a-lazy-r2-solve-of-mediumrehr-challenge-6)                                                             | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-challenge-text](https://discord.com/channels/708208267699945503/739567199647301702)                     |
+| 11:30       | 12:30     | [Use a PortaProg to flash, dump, and test ISP and UPDI chips](#use-a-portaprog-to-flash-dump-and-test-isp-and-updi-chips)                            | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-use-a-portaprog-text](https://discord.com/channels/708208267699945503/739571364821729310)       |
+| 14:00       | 14:30     | [Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables](#hardware-hacking-101-rogue-keyboards-and-eavesdropping-cables)                     | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-hw-hacking-101-text](https://discord.com/channels/708208267699945503/709255105479704636)        |
+| 15:00       | 15:30     | [The Black Box and the Brain Box:  When Electronics and Deception Collide](#the-black-box-and-the-brain-box--when-electronics-and-deception-collide) | Video on [Twitch](https://www.twitch.tv/dchhv) & chat on [#hhv-talk-qa-blackbox-brainbox-text](https://discord.com/channels/708208267699945503/709254868329693214)     |
 
 
 <br/>
@@ -107,13 +107,13 @@ All of our talks and workshops will be run multiple times throughout DEF CON 28 
 #hhv-meetups-a-voice
 * Voice channel to accompany the meetups, see the [Meetup Schedule](#meetup-schedule) for what is happening and when; voice only (The link directly joins the #hhv-meetups-a-text channel, when there, click on the voice channel to join)
 
-#hhv-talk-qa-hw-hacking-101-text
+[#hhv-talk-qa-hw-hacking-101-text](https://discord.com/channels/708208267699945503/709255105479704636)
 * Q&A for talk: *Hardware Hacking 101: Rogue Keyboards and Eavesdropping Cables*; text only
 
-#hhv-talk-qa-use-a-portaprog-text
+[#hhv-talk-qa-use-a-portaprog-text](https://discord.com/channels/708208267699945503/739571364821729310)
 * Q&A for talk: *Use a PortaProg to flash, dump, and test ISP and UPDI chips*; text only
 
-#hhv-talk-qa-blackbox-brainbox-text
+[#hhv-talk-qa-blackbox-brainbox-text](https://discord.com/channels/708208267699945503/709254868329693214)
 * Q&A for talk: *The Black Box and the Brain Box:  When Electronics and Deception Collide*; text only
 
 [#hhv-rework-text](https://discord.com/channels/708208267699945503/709255057543266347)
