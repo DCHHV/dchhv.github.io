@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 29 Challenge
+Take a vacation to Hardware Hacking Island, home of the renowned Diodasaur Park. While you're there, help the team recover after a severe storm by solving a variety of hardware related challenges.
+
+[DEF CON 29 Challenge](/challenges/dc29.html)
+
 ## Hackfest 2020 challenge
 A new challenge released for Hackfest 2020. This is meant to be the 6th challenge in our HHV Challenge series.
 
