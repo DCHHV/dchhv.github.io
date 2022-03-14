@@ -1,6 +1,6 @@
 ---
-title: DEF CON 29
-subtitle: August 5-8, 2021 taking place across multiple internet services and in Las Vegas. See the DEF CON website for up to date information.
+title: DEF CON 30
+subtitle: August 11-14, 2022 taking place in Las Vegas. See the DEF CON website for up to date information.
 layout: main
 ---
 
