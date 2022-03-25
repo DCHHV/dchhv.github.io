@@ -5,12 +5,10 @@ image: assets/images/header_logo.png
 ---
 
 ## Talks/Demos/Hands-on Workshops
-### Call for papers for DEF CON 29 now open!!
+### Call for papers for DEF CON 30 now open!!
 We want to give you a platform to teach others! Have a cool hack you want to show off? Want to teach something awesome? Want to demonstrate your own repurposing?  Let us know!
 
-For DEF CON 29, things are still in a bit of a state of flux. However, we are moving forward on the assumption that the DEF CON hybrid event will take place. Similar to Safe Mode DEF CON 28, all talks and events are going to be pre-recorded to be able to stream online and play in-person. Keep an eye on the [DEF CON website](https://defcon.org/) for updates!
-
-This year, more than others, we are seeking anything and everything related to *Make Your Own Use* that is hands-on. Do you have a training or workshop that includes a hands-on component? Perhaps there is a specific meetup of a special (hardware) interest group you would like to lead? Topics that we are always interested in include:
+We are seeking anything and everything related to *Make Your Own Use* that is hands-on. Do you have a training or workshop that includes a hands-on component? Perhaps there is a specific meetup of a special (hardware) interest group you would like to lead? Topics that we are always interested in include:
 * Exploits/attacks on embedded systems
 * Unintended uses for electronic devices
 * Repurposing electronic devices
