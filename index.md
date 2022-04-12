@@ -6,10 +6,10 @@ layout: main
 
 Join us for another DEF CON adventure and enjoy some hardware hacking shenanigans!
 
-##New Events annouced!
-###[Make Your 0wn Use](/events/makeyourownuse.html)
-###[HHV Rube Goldberg Machine](/events/hhv_rgb.html)
-###[Bring the other Half](/events/bringtheotherhalf.html)
+### New Events announced!
+* [Make Your 0wn Use](/events/makeyourownuse.html)
+* [HHV Rube Goldberg Machine](/events/hhv_rgb.html)
+* [Bring the other Half](/events/bringtheotherhalf.html)
 
 Keep up to date with the [DEF CON website](https://defcon.org/)
 
