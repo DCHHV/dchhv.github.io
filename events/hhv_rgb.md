@@ -1,5 +1,5 @@
 ---
-title: HHV Rube Golderg Machine 
+title: HHV Rube Goldberg Machine 
 layout: page
 ---
 
