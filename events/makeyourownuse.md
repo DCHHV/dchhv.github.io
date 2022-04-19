@@ -11,7 +11,7 @@ Have you taken your IoT toaster and created a remote activated fire-alarm tester
 3. MYOU entry category:
     * Repairing a closed device
     * Adding an unintended feature to a device
-    * Bypassing/breaking security
+    * Bypassing/breaking product security
     * Other (describe and justify)
 4. Describe the device before you Made Your 0wn Use
 5. Describe why you Made Your 0wn Use
