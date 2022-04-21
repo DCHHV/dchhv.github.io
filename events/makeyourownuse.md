@@ -19,6 +19,8 @@ Have you taken your IoT toaster and created a remote activated fire-alarm tester
 7. Describe how you made the modifications (links to project log with photos would be best!)
 8. And of course the end product: Bring it for judging during DEF CON 30
 
+If you can't or won't bring your project to DEF CON 30 (for whatever reason) we still would love to hear about it, please make a submission! We will share some project photos and information on social media! But you will be ineligible for the competition, sorry :(
+
 You can complete your submission using [this google form](https://forms.gle/hABfSmGbx9Dv12ZF8) OR printing [this form](/assets/docs/dc_30_my0u_printable_form.pdf) and submitting it at DEF CON 30.
 
 #### The scoring will be based on the following:
