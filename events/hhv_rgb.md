@@ -1,6 +1,7 @@
 ---
 title: HHV Rube Goldberg Machine 
 layout: page
+image: assets/images/header_logo.png
 ---
 
 To celebrate DEF CON 30, the Hardware Hacking Village (HHV) is hosting a Rube Goldberg Machine (RGM) Event! This idea has been kicking around the HHV volunteer circle in one shape or another since at least DEF CON 20, so it's about time that it happened! The goal is to create a series of devices that combine to form an end-to-end Rube Goldberg machine for transmitting messages. The hope is that all sorts of creative devices will be connected up to each other to move bits through various complicated and fun analog/digital methods. Ideas have ranged from simply wiring RX to TX — to using radios to bounce the message off the moon!
