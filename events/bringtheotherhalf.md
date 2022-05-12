@@ -5,7 +5,7 @@ layout: page
 
 If you only have half of a project, what good is it? It has been said that software is eating the world; but how good is that software without the equally important half, the hardware? The HHV will be presenting you with a compiled firmware blob and your job will be to make something cool happen with that firmware.
 
-Details on the chipset that the binary is for will be released on May 11th, 2022. That will give you 3 months to plan, obtain, and assemble your hardware thing. More details about the firmware (including a beta version of it) will be released leading up to the CON. Final firmware will available to load on-site at the HHV. 
+The chipset that the binary is for is an ATMega 168. A beta version of a binary will be available in the next week or two. You have 3 months to plan, obtain, and assemble your hardware thing. More details about the firmware (including a beta version of it) will be released leading up to the CON. Final firmware will available to load on-site at the HHV and if there is interest online here. 
 
 #### The scoring will be based on the following:
 * Originality of device 
