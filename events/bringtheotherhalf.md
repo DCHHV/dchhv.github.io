@@ -1,6 +1,7 @@
 ---
 title: Bring the Other Half
 layout: page
+image: assets/images/header_logo.png
 ---
 
 If you only have half of a project, what good is it? It has been said that software is eating the world; but how good is that software without the equally important half, the hardware? The HHV will be presenting you with a compiled firmware blob and your job will be to make something cool happen with that firmware.
