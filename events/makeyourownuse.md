@@ -1,6 +1,7 @@
 ---
 title: Make Your 0wn Use Contest
 layout: page
+image: assets/images/header_logo.png
 ---
 
 Have you taken your IoT toaster and created a remote activated fire-alarm tester? How about that old toy your kids (right, it was for the kids?) don't play with anymore that now fuzzes your neighbor's drone? Or what about putting that con badge to good use? The Hardware Hacking Village is hosting a "Make Your 0wn Use" contest. Submissions can be a solo or team based project that bend, mend, or repurpose any device and show others how it can be done.
