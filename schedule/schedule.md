@@ -3,118 +3,86 @@ title: DC30 Schedule
 layout: page
 ---
 
-## Schedule TDB, check back later and keep an eye on our [Twitter feed](https://twitter.com/DC_HHV)
+Friday 1000
+Talk - [Uwb Security Primer: Rise Of A Dusty Protocol](#uwb-security-primer:-rise-of-a-dusty-protocol)
+Friday 1100
+Talk - [From Zero To Sao ... Or, How Far Does This Rabbit Hole Go?](#from-zero-to-sao-...-or,-how-far-does-this-rabbit-hole-go?)
+Friday 1300
+Talk - [Reversing An M32C Firmware -- Lesson Learned From Playing With An Uncommon Architecture](#reversing-an-m32c-firmware----lesson-learned-from-playing-with-an-uncommon-architecture)
+Friday 1400
+Talk - [Movie-Style Hardware Hacking](#movie-style-hardware-hacking)
+Friday 1500
+Talk - [Injectyll-Hide: Build-Your-Own Hardware Implants](#injectyll-hide:-build-your-own-hardware-implants)
 
-# Video List
+## Talk/Workshop Details
+* * *
+### Uwb Security Primer: Rise Of A Dusty Protocol
+Göktay Kaykusuz k4r4koyun
+#### Abstract
+UWB has been available for nearly 20 years now but never took off the way it was meant to. Every use-case designed or considered for UWB had been taken over by other protocols such as Bluetooth, and like the VR tech, UWB did not become a widespread way of communication for a long time.
 
-While you wait, why not watch some awesome videos from awesome people (in no particular order, just things we thought are neat):
+During this talk, we will look at the standards, current applications, and possible attack vectors alongside the available hardware that we can utilize to discover these vectors. This session will be a primer for anyone interested in the current UWB landscape and will try to provide the basis for security research.
 
-### Joe Grand
-* [JTAGulator: Introduction and Demonstration](https://www.youtube.com/watch?v=uVIsbXzQOIU)
-* [JTAGulator: UART Discovery](https://www.youtube.com/watch?v=yYCDOWI1xfo)
+REFERENCES
+- Singh, Mridula, et al. "Security analysis of IEEE 802.15. 4z/HRP UWB time-of-flight distance measurement." Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks. 2021.
+- Compagno, Alberto, et al. "Modeling enlargement attacks against UWB distance bounding protocols." IEEE Transactions on Information Forensics and Security 11.7 (2016): 1565-1577.
+- Leu, Patrick, et al. "Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging." arXiv preprint arXiv:2111.05313 (2021).
+#### Bio
+Göktay Kaykusuz has more than five years of experience in various cyber security fields and is currently a Security Engineer at eyeo GmbH. Previously he worked as a Security Engineer at Jotform Inc. and did freelance/consultancy work before that. Göktay also has Bachelor’s Degree in Computer Engineering, a Master’s Degree in Information Security, and OSCP/OSCE certifications. He also designed a custom badge to wear, just for DEFCON 30.
 
-### NorCal715
-* [Replacing a jack on a circuit board when the copper pads are missing](https://www.youtube.com/watch?v=cTnVg6Pmf-U)
+Göktay also likes riding cruisers/choppers, smoking churchwardens, and robotics in general. He also dislikes nature to a degree (especially bugs/spiders) and would welcome the warm embrace of Cult Mechanicus if given the opportunity.
+* * *
+### From Zero To Sao ... Or, How Far Does This Rabbit Hole Go?
+Bradán Lane
+#### Abstract
+If you have a ounce of desire and a sprinkle of creativity then you can make fun electronic tchotchkes!
 
-### Jeri Ellsworth
-* [Resistive Multi-touch Pad Prototype](https://www.youtube.com/watch?v=d7eQ2LHzYMQ)
-* [Homebrew NMOS Transistor Step by Step - So Easy Even Jeri Can Do It](https://www.youtube.com/watch?v=w_znRopGtbE)
-* [Make a Point Contact Transistor at home](https://www.youtube.com/watch?v=vmotkjMSKnI)
-* [Magnetic Logic - Forgotten Technology](https://www.youtube.com/watch?v=p7SkE5pERtA)
-* [Secret to Learning Electronics - Fail and Fail Often](https://www.youtube.com/watch?v=xhQ7d3BK3KQ)
+You will take a journey through the software and hardware tools often used to make small electronic gadgets like DEFCON SAOs, electronic pins, and annoying blinky-beepy gifts for parties and holidays. The skills covered will also serve as the stepping off point for your own badgelife creation ... should you dare.
 
-### LiveOverflow
-* [RSA Power Analysis Side-Channel Attack - rhme2](https://www.youtube.com/watch?v=bFfyROX7V0s)
-* [Hardware Power Glitch Attack - rhme2 Fiesta (FI 100)](https://www.youtube.com/watch?v=6Pf3pY3GxBM)
+You will see how to take your personal strengths - be it art, maths, engineering, or fabrication - and build out to other skills.
 
-### CrowdSupply
-* [Searching for the Light Using OpticSpy to Receive Optical Transmissions](https://www.youtube.com/watch?v=O46FxU2M9bI)
-* [Design and Reverse Engineering Playing on both sides of the field](https://www.youtube.com/watch?v=f9hjALIymkw)
-* [How to Make Your Own Designs Hackable](https://www.youtube.com/watch?v=HEERR0PQ59Q)
-* [Kicad Designing With Complex Shapes](https://www.youtube.com/watch?v=AfmdjmGnVgo)
-* [Making Open Source Schematics Not Suck](https://www.youtube.com/watch?v=lId2NJX8NBc)
+You won't learn everything there is to know about completing your dream project but you will have learned the steps involved and where to get help along the way!
+#### Bio
+Bradán Lane is a UX Design and User Researcher who had his own "Alice’s Adventures in Wonderland" experience when he discovered badge making. While he has made a number of fun blinky beepy ornaments and badges, he found his passion with the eChallengeCoin - an interactive and text story challenge puzzle in the shape of a coin. He releases a new eChallengeCoin each year. Bradán also designs hardware for the CircuitPython echo system so users "have a low barrier to productivity and creativity". 
+* * *
+### Reversing An M32C Firmware -- Lesson Learned From Playing With An Uncommon Architecture
+Philippe Laulheret
+#### Abstract
+While busy hacking the planet, have you ever encountered an unfamiliar architecture and simply had no idea where to start? You pried the firmware from a reluctant (and almost not smoldering) flash chip, loaded the thing in IDA, but what's next? 
+We got into this pickle while working on reversing the firmware of a medical device. The mystery architecture turned out to be M32C, and thankfully, IDA Pro added support for it a few months prior.
 
-### Applied Science
-* [Tutorial How to design a transistor circuit that controls low-power devices](https://www.youtube.com/watch?v=8DMZSxS-xVc)
+This talk is not exactly about reversing yet another embedded device. Instead, this is more about the journey and lessons learned so that it could be abstracted away for the next project. Rather than focusing on the specifics of the firmware itself, we will see how it interacts with the micro-controller and the steps taken to approach an unfamiliar embedded architecture. 
+ 
+During this presentation, you can expect digging into low-level micro-controller notions such as interrupt handlers, special purpose registers, how to find flash handling code, and way too much M32C assembly. 
+If you've ever dabbled in hardware hacking and want to have a look at something that is not Linux-based, this talk will give you some pointers in how to get the ball* rolling. 
+(*not talking about the ones we dropped at the reballing station)
+#### Bio
+Philippe Laulheret is a Senior Security Researcher on the Trellix vulnerability research team. With a focus on Reverse Engineering and Vulnerability Research, Philippe uses his background in Embedded Security and Software Engineering to poke at complex systems and get them behave in interesting ways. In his spare time, Philippe enjoys playing CTFs, immersing himself in the beauty of the Pacific Northwest, and exploring the realm of Creative Coding.
 
-### Great Scott
-* [Battery Spot Welder (CD Welder) DIY or Buy](https://www.youtube.com/watch?v=5TVNdMqVZpk)
-* [DIY LiPo ChargeProtect5V Boost Circuit](https://www.youtube.com/watch?v=Fj0XuYiE7HU)
-* [How to Solder properly Through-hole (THT) & Surface-mount (SMD)](https://www.youtube.com/watch?v=VxMV6wGS3NY)
+Philippe holds a MSc in Computer Science from Georgia Tech and a MSc in Electrical and Computer Engineering from Supélec (France).
+* * *
+### Movie-Style Hardware Hacking
+Bryan C. Geraghty
+#### Abstract
+We all have hardware devices sitting around: In server rooms or your IoT devices at home. What are these things actually doing? It would be really handy to have root access on them to aid us in future adventures.
 
-### Scanlime
-* [Intel Euclid Teardown - scanlime_022](https://www.youtube.com/watch?v=0tYpfqi3KbY)
-* [Flexible Keypad Experiment - scanlime_023](https://www.youtube.com/watch?v=zultG4QwgTg)
+Or maybe you want to perma-root the device and re-sell it to some unsuspecting victim. Or maybe you want to know if you're the unsuspecting victim. Who am I to judge?
 
-### StrangeParts
-* [Bringing BACK The iPhone Headphone Jack - in China](https://www.youtube.com/watch?v=utfbE3_uAMA)
-* [Inside a Huge PCB Factory - in China](https://www.youtube.com/watch?v=ljOoGyCso8s)
-* [How I Made My Own iPhone - in China](https://www.youtube.com/watch?v=leFuF-zoVzA)
-* [How I Upgraded My iPhone Memory 800 - in Shenzhen, China](https://www.youtube.com/watch?v=rHP-OPXK2ig)
-* [I found wireless LEDs - no batteries needed in Akihabara, Tokyo](https://www.youtube.com/watch?v=PsUsByrOveE)
+What does it take to cause these devices to fail? Can we get them to fail open?
 
-### Make
-* [Circuit Skills Circuit Board Etching](https://www.youtube.com/watch?v=tWnfnt2rNO0)
-* [Collins Lab: Schematics](https://www.youtube.com/watch?v=9cps7Q_IrX0)
-* [MAKE presents: The Capacitor](https://www.youtube.com/watch?v=ZYH9dGl4gUE)
-* [MAKE presents: The Diode](https://www.youtube.com/watch?v=AqzYsuTRVRc)
-* [MAKE presents: The Transistor](https://www.youtube.com/watch?v=-td7YT-Pums)
+I'm going to tell a story about circuit-shorting attacks, how to build a hardware circuit to perform this attack with a computer, and give you the instructions and code to build one yourself... with a device you may already have :)
 
-### Adafruit Industries
-* [Collins Lab Desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y)
-* [Collins Lab Soldering](https://www.youtube.com/watch?v=QKbJxytERvg)
-* [Collins Lab Surface Mount Soldering](https://www.youtube.com/watch?v=QzoPxvIM2qE)
+#### Bio
+Bryan leads and executes highly technical software and hardware assessments. He specializes in cryptography, reverse engineering, and analyzing complex threat models.
 
-### Kevin Darrah
-* [Easy way to Solder Surface Mount Parts! - How I do it](https://www.youtube.com/watch?v=qqoHTKhIBRo)
+* * *
+### Injectyll-Hide: Build-Your-Own Hardware Implants
+Jonathan Fischer Jeremy Miller
+#### Abstract
+Hardware implants are not a new topic; however, their evolution seems to have stagnated outside of closed source, for-profit solutions. The disadvantage to these is that they lack the customization to adapt to large targeted deployments. Open-source projects exist but focus more on individual workstations (dumb keyboards/terminals), relying on corporate networks for remote control. This leaves a gap that we decided to address with our research. 
+Our solution is an open source, hardware implant which adopts IoT technologies, using non-standard channels to create a remotely managed mesh network of hardware implants. Attendees will learn how we created a new breed of open-source hardware implant, along with lessons that we learned throughout the project. Topics covered in this talk include a detailed dive into the hardware that we used, the evolution of the project from start to finish, the complete design of our project, and our lessons learned along the way. Attendees will also be able to interact with a live version of the project.
+#### Bio
+Jonathan Fischer is a hardware, RF, and IoT security enthusiast that started off designing, programming, and implementing electronic controls for industrial control systems and off-highway machinery. After a decade in that industry, Jonathan obtained his BS in Computer Science and transitioned over to the cyber security industry where he has been working as a Red Team consultant and researcher for more than five years at a Fortune 500. Since joining the cyber security industry, Jonathan has since earned various industry certifications (OSCP, GPEN, etc.) and continues to leverage his unique experience in his research into hardware hacking.
 
-### Pace World Wide
-* [Basic Soldering Lesson 1 - "Solder & Flux"](https://www.youtube.com/watch?v=vIT4ra6Mo0s)
-* [Basic Soldering Lesson 2 - "Soldering To PCB Terminals"](https://www.youtube.com/watch?v=Mrhg5A1a1mU)
-* [Basic Soldering Lesson 6 - "Component Soldering"](https://www.youtube.com/watch?v=AY5M-lGxvzo)
-* [Basic Soldering Lesson 7 - "Integrated Circuits: The DIP-Type Package"](https://www.youtube.com/watch?v=VgcPxdnjwt4)
-* [Basic Soldering Lesson 8 - "Integrated Circuits"](https://www.youtube.com/watch?v=sTv3gK9tAKA)
-* [Basic Soldering Lesson 9 - "Integrated Circuits: The Flatpack & Other Planar-mounted Components"](https://www.youtube.com/watch?v=Nq5ngauITsw)
-
-### FSE elearning
-* [Basic Soldering Technique](https://www.youtube.com/watch?v=AqvHogekDI4)
-
-### ElectroBOOM
-* [Destruction with EMP Device, Understand and Battle EM Interference](https://www.youtube.com/watch?v=Y5M6YKR7wUw)
-
-### RetroComputing
-* [DTV engineering Jeri Ellsworth](https://www.youtube.com/watch?v=g05Wfqv-8es)
-
-### RetroGameModz
-* [PCB solder pad repair & corrosion clean up - The epoxy method](https://www.youtube.com/watch?v=vx50YtEC2S8)
-* [Repair tip - What to look for on corroded through-hole PCBs](https://www.youtube.com/watch?v=S9q3s4mB5PM)
-* [Soldering to a QFP that has broken pins - Maxtor HDD repair](https://www.youtube.com/watch?v=xqkXvmvusws)
-* [LCD TV repair - Samsung LW20M21CP not powering up](https://www.youtube.com/watch?v=zxqDLDNuCfw)
-
-### CuriousInventor
-* [How to Desolder Through-Hole Parts, Why Some Joints are Difficult](https://www.youtube.com/watch?v=Z38WsZFmq8E)
-
-### G-Lon
-* [iPhone 6S Plus Replace RAM](https://www.youtube.com/watch?v=mWqNY7umCNg)
-* [iPhone 7 Plus change the CPU Baseband CPU and Hard disk](https://www.youtube.com/watch?v=tWDOZFhCOPw)
-* [iPhone 7 water damage repair](https://www.youtube.com/watch?v=DjH22xDDhpU)
-* [iMesa Repair Touch ID](https://www.youtube.com/watch?v=txAJJW8bZy8)
-
-### Samy Kamkar
-* [MagSpoof - magnetic stripe spoofer / credit card magstripe emulator](https://www.youtube.com/watch?v=UHSFf0Lz1qc)
-* [OpenSesame - hacking garages in seconds using a Mattel](https://www.youtube.com/watch?v=iSSRaIU9_Vc)
-* [PoisonTap - exploiting locked machines w/Raspberry Pi Zero](https://www.youtube.com/watch?v=Aatp5gCskvk)
-* [USBdriveby - exploiting USB in style](https://www.youtube.com/watch?v=aSLEq7-hlmo)
-
-### DEFCON
-* [DEF CON 22 - Joe Grand aka Kingpin - Deconstructing the Circuit Board Sandwich](https://www.youtube.com/watch?v=O8FQZIPkgZM)
-* [DEF CON 23 - Hardware Hacking Village - Soldering 101 - Melting metal for fun and profit](https://www.youtube.com/watch?v=u6qVTMNY9Fo)
-* [DEF CON 24 - Joe FitzPatrick, Joe Grand - 101 Ways to Brick your Hardware](https://www.youtube.com/watch?v=acNu_JFJe50)
-
-### Naomi Wu
-* [Hardware Manufacturing, LED Rings Pt.3- I demonstrate SMT soldering (poorly)](https://www.youtube.com/watch?v=-g4DgOLSKfg)
-* [Hardware Manufacturing, LED Rings Pt.2- A Visit to JLCPCB](https://www.youtube.com/watch?v=r5hrP5iMTmM)
-* [Wearable Video Player Boots!](https://www.youtube.com/watch?v=PyajZsQlNe4)
-* [Infinity Skirt Build](https://www.youtube.com/watch?v=Zo3SG2iNSXg)
-* [Face Changer- Biometric Countermeasures Based on Traditional Chinese Opera](https://www.youtube.com/watch?v=D-b23eyyUCo)
-
+Jeremy Miller is a 12+ year security professional that has worked in various industries including life-sciences, finance, and retail. Jeremy has worked both sides of the security spectrum ranging from Security Research, Red Teaming and Penetration Testing to Threat Intelligence and SOC Analyst. Jeremy currently works as a Security Technical Lead for an emerging R&D Life Science Platform where he works on product and infrastructure security.
+* * *
