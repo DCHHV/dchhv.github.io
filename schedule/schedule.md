@@ -3,16 +3,15 @@ title: DC30 Schedule
 layout: page
 ---
 
-Friday 1000
-Talk - [Uwb Security Primer: Rise Of A Dusty Protocol](#uwb-security-primer:-rise-of-a-dusty-protocol)
-Friday 1100
-Talk - [From Zero To Sao ... Or, How Far Does This Rabbit Hole Go?](#from-zero-to-sao-...-or,-how-far-does-this-rabbit-hole-go?)
-Friday 1300
-Talk - [Reversing An M32C Firmware -- Lesson Learned From Playing With An Uncommon Architecture](#reversing-an-m32c-firmware----lesson-learned-from-playing-with-an-uncommon-architecture)
-Friday 1400
-Talk - [Movie-Style Hardware Hacking](#movie-style-hardware-hacking)
-Friday 1500
-Talk - [Injectyll-Hide: Build-Your-Own Hardware Implants](#injectyll-hide:-build-your-own-hardware-implants)
+## Talk/Workshop Schedule
+
+| Friday | Talk/Workshop |
+| ------- | ----- |
+| 1000 | [Uwb Security Primer: Rise Of A Dusty Protocol](#uwb-security-primer:-rise-of-a-dusty-protocol) |
+| 1100 | [From Zero To Sao ... Or, How Far Does This Rabbit Hole Go?](#from-zero-to-sao-...-or,-how-far-does-this-rabbit-hole-go?) |
+| 1300 | [Reversing An M32C Firmware -- Lesson Learned From Playing With An Uncommon Architecture](#reversing-an-m32c-firmware----lesson-learned-from-playing-with-an-uncommon-architecture) |
+| 1400 | [Movie-Style Hardware Hacking](#movie-style-hardware-hacking) |
+| 1500 | [Injectyll-Hide: Build-Your-Own Hardware Implants](#injectyll-hide:-build-your-own-hardware-implants) |
 
 ## Talk/Workshop Details
 * * *
