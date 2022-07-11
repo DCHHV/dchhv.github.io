@@ -3,6 +3,20 @@ title: DC30 Schedule
 layout: page
 ---
 
+**Note** All listed times are Las Vegas local time, PDT/UTC-7
+
+<br/>
+<br/>
+
+[Village Hours](#village-hours)
+
+[Events Schedule](#events-schedule)
+
+[Talk/Workshop Schedule](#talkworkshop-schedule)
+
+<br/>
+<br/>
+
 ## Village Hours
 
 | Day | Times |
@@ -13,6 +27,9 @@ layout: page
 | Sunday Aug 14 | 10:00 - 13:00 |
 
 The village will be in the lower floors of the Flamingo Conference space - [venue map here](https://defcon.org/html/defcon-30/dc-30-venue.html)
+
+<br/>
+<br/>
 
 ## Events Schedule
 
@@ -28,6 +45,9 @@ The village will be in the lower floors of the Flamingo Conference space - [venu
 [Make Your 0wn Use Contest](/events/makeyourownuse.html) will be running during all open hours. We have space for display, if you are comfortable leaving it out for people to look at. Judging will conclude on Saturday at 16:00 when prizes will be announced.
 
 [Bring The Other Half](/events/bringtheotherhalf.html) will be running during all open hours. Get the full firmware and bring your device by the HHV booth. Judging will conclude on Saturday at 16:00 when prizes will be announced.
+
+<br/>
+<br/>
 
 ## Talk/Workshop Schedule
 
