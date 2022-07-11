@@ -16,6 +16,11 @@ The village will be in the lower floors of the Flamingo Conference space - [venu
 
 ## Events Schedule
 
+| Event | Times |
+| --- | ------|
+| RoboSumo | Saturday Aug 13, 13:00 |
+| Prizes for all events announced | Saturday Aug 13, 16:00  |
+
 [RoboSumo](/events/robosumo.html) will be available to play and test code during all open hours. Competition will be Saturday at 13:00 for as long as it takes to run a bracket.
 
 [HHV Rube Goldberg Machine](/events/hhv_rgb.html) will be running during all open hours. Come by and bring some text to print! Modules will be allowed to be added and removed all open hours as well. Those that want to be involved in the judging will need to have had their module inline before Saturday at 16:00 when prizes will be announced.
