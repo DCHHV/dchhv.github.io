@@ -12,6 +12,8 @@ layout: page
 | Saturday Aug 13 | 10:00 - 18:00 |
 | Sunday Aug 14 | 10:00 - 13:00 |
 
+The village will be in the lower floors of the Flamingo Conference space - [venue map here](https://defcon.org/html/defcon-30/dc-30-venue.html)
+
 ## Events Schedule
 
 [RoboSumo](/events/robosumo.html) will be available to play and test code during all open hours. Competition will be Saturday at 13:00 for as long as it takes to run a bracket.
