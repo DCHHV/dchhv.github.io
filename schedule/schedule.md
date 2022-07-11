@@ -3,6 +3,32 @@ title: DC30 Schedule
 layout: page
 ---
 
+## Village Hours
+
+| Day | Times |
+| --- | ------|
+| Thursday Aug 11 | Setup (Closed to Public) |
+| Friday Aug 12 | 10:00 - 18:00 |
+| Saturday Aug 13 | 10:00 - 18:00 |
+| Sunday Aug 14 | 10:00 - 13:00 |
+
+The village will be in the lower floors of the Flamingo Conference space - [venue map here](https://defcon.org/html/defcon-30/dc-30-venue.html)
+
+## Events Schedule
+
+| Event | Times |
+| --- | ------|
+| RoboSumo | Saturday Aug 13, 13:00 |
+| Prizes for all events announced | Saturday Aug 13, 16:00  |
+
+[RoboSumo](/events/robosumo.html) will be available to play and test code during all open hours. Competition will be Saturday at 13:00 for as long as it takes to run a bracket.
+
+[HHV Rube Goldberg Machine](/events/hhv_rgb.html) will be running during all open hours. Come by and bring some text to print! Modules will be allowed to be added and removed all open hours as well. Those that want to be involved in the judging will need to have had their module inline before Saturday at 16:00 when prizes will be announced.
+
+[Make Your 0wn Use Contest](/events/makeyourownuse.html) will be running during all open hours. We have space for display, if you are comfortable leaving it out for people to look at. Judging will conclude on Saturday at 16:00 when prizes will be announced.
+
+[Bring The Other Half](/events/bringtheotherhalf.html) will be running during all open hours. Get the full firmware and bring your device by the HHV booth. Judging will conclude on Saturday at 16:00 when prizes will be announced.
+
 ## Talk/Workshop Schedule
 
 | Friday | Talk/Workshop |

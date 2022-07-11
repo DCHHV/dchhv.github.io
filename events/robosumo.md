@@ -7,6 +7,8 @@ If you have never participated in a Robo Sumo event before, welcome to the crowd
 
 We will have a couple units available (Pololu Zumo 32U4 Robots - Arduino compatible) to accept your code, so if nothing else bring some advanced AI goodness.
 
+The ring and bots will be available anytime during the times the village is open. Stop by and test out your bot / code and see how it will do!
+
 ## Rules ##
 
 1.  This is a Mini Sumo class event, robots must fit in a 10x10 cm square box, but can be as tall as you like. Weight can't be more than 500 g.
