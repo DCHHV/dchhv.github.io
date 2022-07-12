@@ -12,7 +12,7 @@ Join us for another DEF CON adventure and enjoy some hardware hacking shenanigan
 * [Bring the other Half](/events/bringtheotherhalf.html)
 
 ### Returning Events
-* [RoboSumo]{/events/robosumo.html)
+* [RoboSumo](/events/robosumo.html)
 
 Keep up to date with the [DEF CON website](https://defcon.org/)
 
