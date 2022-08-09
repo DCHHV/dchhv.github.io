@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 30 Challenge
+We been working on developing a new SOC, the HHVDC30, to drive our new "Badge" prototype and enforce our new SAO DRM protocol. This new chip design and DRM implementation should be perfect, but the higher-ups still want us to test it out at DEF CON. Good luck finding any flaws!
+
+[DEF CON 30 Challenge](/challenges/dc30.html)
+
 ## DEF CON 29 Challenge
 Take a vacation to Hardware Hacking Island, home of the renowned Diodasaur Park. While you're there, help the team recover after a severe storm by solving a variety of hardware related challenges.
 

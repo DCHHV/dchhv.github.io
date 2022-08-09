@@ -46,6 +46,8 @@ The village will be in the lower floors of the Flamingo Conference space - [venu
 
 [Bring The Other Half](/events/bringtheotherhalf.html) will be running during all open hours. Get the full firmware and bring your device by the HHV booth. Judging will conclude on Saturday at 16:00 when prizes will be announced.
 
+[HHV Capture The Flag (CTF)](/challenges/dc30.html) is back in person and will be running during all open hours. We have been working on developing a new SOC, the HHVDC30, to drive our new "Badge" prototype and enforce our new SAO DRM protocol. This new chip design and DRM implementation should be perfect, but the higher-ups still want us to test it out at DEF CON. Good luck finding any flaws!
+
 <br/>
 <br/>
 
