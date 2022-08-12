@@ -13,6 +13,7 @@ Join us for another DEF CON adventure and enjoy some hardware hacking shenanigan
 
 ### Returning Events
 * [RoboSumo](/events/robosumo.html)
+* [HHV CTF](/challenges/dc30.html)
 
 Keep up to date with the [DEF CON website](https://defcon.org/)
 

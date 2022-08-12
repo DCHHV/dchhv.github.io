@@ -24,9 +24,9 @@ Some of our tools, many of our giveaways, and nearly all of our prizes are made 
 All donors, past and present (in alphabetical order):
 
 | [Circuit Specialists](https://www.circuitspecialists.com/) | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/) | 
-| [Hak5](https://www.hak5.org/) | [iFixit](https://www.ifixit.com/) | [OSHPark](https://oshpark.com/) |
-| [Pololu](https://www.pololu.com/) | [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) 
-| [UAT](https://www.uat.edu/) |
+| [Hak5](https://www.hak5.org/) | [iFixit](https://www.ifixit.com/) | [JLCPCB](https://www.jlcpcb.com/PCH) | 
+| [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) | [SparkFun](https://www.sparkfun.com/) |
+| [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
 
 Interested in becoming a donor? Contact us! Send an email to l33tbunni (at) dchhv.org
 

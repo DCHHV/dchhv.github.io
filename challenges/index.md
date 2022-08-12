@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 30 Challenge
+HHV Technologies, the inovation side of the Hardware Hacking Village, has been working hard on developing a new SOC, specifically for controlling electronic conference badges, called the HHVDC30. They provided us with a few "Badge" prototypes, and they're particularly proud of their new SAO power control functionality. They say this new chip design and DRM implementation should be perfect, but here in the hacking department, we're not so naive. Let's find some bugs and prove those arrogrants engineers wrong?
+
+[DEF CON 30 Challenge](/challenges/dc30.html)
+
 ## DEF CON 29 Challenge
 Take a vacation to Hardware Hacking Island, home of the renowned Diodasaur Park. While you're there, help the team recover after a severe storm by solving a variety of hardware related challenges.
 
