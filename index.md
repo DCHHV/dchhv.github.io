@@ -1,6 +1,6 @@
 ---
-title: DEF CON 30
-subtitle: August 11-14, 2022 taking place in Las Vegas. See the DEF CON website for up to date information.
+title: DEF CON 31
+subtitle: August 10-13, 2023 taking place in Las Vegas. See the DEF CON website for up to date information.
 layout: main
 ---
 
