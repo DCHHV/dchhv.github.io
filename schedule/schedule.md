@@ -79,7 +79,7 @@ Jing Zhi is slenderman, the hardware padawan.
 ### Introduction To Esp8266/Esp32 Microcontrollers And Building A Wi-Fi Deauthentication Detector
 Ryan Zagrodnik
 #### Abstract
-Join us as we provide an introduction to the Adruino IDE and the ESP8266 microcontroller. Receive a free ESP8266, and build your own Wi-Fi deauthentication detector. We will walkthrough assembly, flashing, and configuration steps.
+Join us as we provide an introduction to the Adruino IDE and the ESP8266 microcontroller. Receive a free ESP8266 **(Limited to the first 30 attendees to approach the speaker before the start of the talk and ask for a kit)**, and build your own Wi-Fi deauthentication detector. We will walkthrough assembly, flashing, and configuration steps.
 #### Bio
 Ryan Zagrodnik has been consulting as a Penetration Tester for SynerComm for almost five years. Ryan brings over sixteen years of red and blue team experience. Ryan started his career maintaining large enterprise networks as a System Administrator in 2007. Ryan earned his CISSP in 2011 and has been working in offensive security ever since. Prior to starting at SynerComm, Ryan spent three years on an internal red team at a Fortune 1000 organization. Ryan also spent several years working in offensive and defensive security roles for large enterprises who provided services for the U.S. Department of Defense and Department of Education.
 * * *
