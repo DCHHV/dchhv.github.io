@@ -62,7 +62,7 @@ The village will be located in the Caesars Forum - [venue map here](https://defc
 ## Talk/Workshop Details
 * * *
 ### The Creation Of The Out-Of-Band Anti Virus Dock (Oobavd)
-Pengfei "BigZaddy" Yu Bosen Zhang, Howard Yang, Tan Jing Zhi
+Pengfei "BigZaddy" Yu, Bosen Zhang, Howard Yang, Tan Jing Zhi
 #### Abstract
 USB-based attacks account for over 52% of all cybersecurity attacks on operational technology (OT) systems in the industrial control systems (ICS) industry. Stuxnet's discovery in 2015 showed the vulnerability of air-gapped systems, previously considered invulnerable. These systems are found in secure military organizations and SCADA systems. The societal impact of such attacks can be enormous, as evidenced by Stuxnet's impact on Iran's nuclear programs.
 
@@ -84,7 +84,7 @@ Join us as we provide an introduction to the Adruino IDE and the ESP8266 microco
 Ryan Zagrodnik has been consulting as a Penetration Tester for SynerComm for almost five years. Ryan brings over sixteen years of red and blue team experience. Ryan started his career maintaining large enterprise networks as a System Administrator in 2007. Ryan earned his CISSP in 2011 and has been working in offensive security ever since. Prior to starting at SynerComm, Ryan spent three years on an internal red team at a Fortune 1000 organization. Ryan also spent several years working in offensive and defensive security roles for large enterprises who provided services for the U.S. Department of Defense and Department of Education.
 * * *
 ### Sadprotocol Goes To Hollywood: Hijacking An Ip Camera Stream As Seen In The Movies
-Octavio Gianatiempo Javier Aguinaga
+Octavio Gianatiempo, Javier Aguinaga
 #### Abstract
 When people think about a compromised surveillance camera, privacy is their first concern. But what about attacking the stream integrity? How hard can this movie hacking stunt be in real life? Previous research has focused on the network layer, but we wondered if we could achieve the feat by finding a zero-day on a device we owned.
 
@@ -109,7 +109,7 @@ Thomas BYGODT is a penetration tester at Orange Cyberdefense, a CTF player and a
 He does not want to remain passive in front of the technologies that interact with the real world. Testing and understanding them allows us to better understand their limits, both for people's privacy and for their security. He has been specializing in connected devices for 3 years now. 
 * * *
 ### Radiation Detection For The Rest Of Us - Diy Radiation Spectroscopy
-Patrick Kiley none
+Patrick Kiley
 #### Abstract
 When radiation detectors are mentioned, one tends to think of the
 geiger counter. This type of detector happens to be just one method of
