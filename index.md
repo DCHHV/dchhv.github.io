@@ -8,7 +8,7 @@ Join us for another DEF CON adventure and enjoy some hardware hacking shenanigan
 
 ### Returning Events
 * [RoboSumo](/events/robosumo.html)
-* HHV CTF
+* [HHV CTF](/challenges/dc31.html)
 * [Make Your 0wn Use](/events/makeyourownuse.html)
 * [HHV Rube Goldberg Machine](/events/hhv_rgb.html)
 

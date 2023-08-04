@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 31 Challenge
+We're back for DEF CON 31 as an ✨Official DEF CON Contest!✨ Stay tuned for more!
+
+[DEF CON 31 Challenge](/challenges/dc31.html)
+
 ## DEF CON 30 Challenge
 HHV Technologies, the inovation side of the Hardware Hacking Village, has been working hard on developing a new SOC, specifically for controlling electronic conference badges, called the HHVDC30. They provided us with a few "Badge" prototypes, and they're particularly proud of their new SAO power control functionality. They say this new chip design and DRM implementation should be perfect, but here in the hacking department, we're not so naive. Let's find some bugs and prove those arrogrants engineers wrong?
 
