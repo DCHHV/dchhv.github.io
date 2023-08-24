@@ -45,6 +45,8 @@ The village will be located in the Caesars Forum - [venue map here](https://defc
 
 [HHV Capture The Flag (CTF)]() is back in person and will be running during all open hours. More details to follow!
 
+[Badgelife](https://www.vice.com/en/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards) is alive and well this year at DEF CON. If you are looking for advice on creating, hacking, augmenting or fixing badges, most creators wander into HHV from time to time. They will be around to help and answer questions about the community and how to get involved. Badges and learn to solder kits this year are being sold at the Vendor area. HHV is not a place that sells badges, or a place to pick up purchased badges, but a place that welcomes the curious. Come hang out and learn more from the Badgemakers community representitive at the HHV info booth, or for those that are extra curious join the [Badgemakers Discord](https://discord.gg/SPHmVzbDXN)
+
 <br/>
 <br/>
 
