@@ -22,4 +22,4 @@ Submissions closed for now! Check back later!
 ## Become a Volunteer
 The DEF CON Hardware Hacking Village is entirely staffed by volunteers.  A small group of us work year-round to bring you the awesome things we do for those few days over DEF CON.  We have volunteers behind the table and walking around in the area to help out however we can.  We love to teach others and learn new things.
 
-If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/Z7AgozYjvQt94j799)
+If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/S1MjAnd5AueeAdnS8)
