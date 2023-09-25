@@ -16,10 +16,10 @@ We are seeking anything and everything related to *Make Your Own Use* that is ha
 
 Not sure if your activity falls into any of those categories? Make a submission anyway!
 
-[Submit your information here!](https://forms.gle/FthCBDxcTNc87Yjx8)
+Submissions closed for now! Check back later!
 * * *
 <br/>
 ## Become a Volunteer
 The DEF CON Hardware Hacking Village is entirely staffed by volunteers.  A small group of us work year-round to bring you the awesome things we do for those few days over DEF CON.  We have volunteers behind the table and walking around in the area to help out however we can.  We love to teach others and learn new things.
 
-If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/rif3nT5swf9UHA3R9)
+If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/Z7AgozYjvQt94j799)
