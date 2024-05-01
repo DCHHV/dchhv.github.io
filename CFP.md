@@ -5,7 +5,7 @@ image: assets/images/header_logo.png
 ---
 
 ## Talks/Demos/Hands-on Workshops
-### Call for papers for DEF CON 31 now open!!
+### Call for papers for DEF CON 32 now open!!
 We want to give you a platform to teach others! Have a cool hack you want to show off? Want to teach something awesome? Want to demonstrate your own repurposing?  Let us know!
 
 We are seeking anything and everything related to *Make Your Own Use* that is hands-on. Do you have a training or workshop that includes a hands-on component? Perhaps there is a specific meetup of a special (hardware) interest group you would like to lead? Topics that we are always interested in include:
@@ -16,7 +16,9 @@ We are seeking anything and everything related to *Make Your Own Use* that is ha
 
 Not sure if your activity falls into any of those categories? Make a submission anyway!
 
-Submissions closed for now! Check back later!
+CFP open until May 24th 23:59 PDT-7!
+
+[Submit your information here!](https://forms.gle/Ctdw6repZ58PEZPHA)
 * * *
 <br/>
 ## Become a Volunteer
