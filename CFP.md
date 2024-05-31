@@ -24,4 +24,4 @@ CFP open until May 24th 23:59 PDT-7!
 ## Become a Volunteer
 The DEF CON Hardware Hacking Village is entirely staffed by volunteers.  A small group of us work year-round to bring you the awesome things we do for those few days over DEF CON.  We have volunteers behind the table and walking around in the area to help out however we can.  We love to teach others and learn new things.
 
-If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/S1MjAnd5AueeAdnS8)
+If this sounds fun to you, then consider [volunteering your time in the HHV!](https://forms.gle/6UyRwHii8HEuQkSF8)
