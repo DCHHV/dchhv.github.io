@@ -1,5 +1,5 @@
 ---
-title: DC31 Schedule
+title: DC32 Schedule
 layout: page
 ---
 
@@ -21,12 +21,12 @@ layout: page
 
 | Day | Times |
 | --- | ------|
-| Thursday, Aug 10 | Setup (Closed to Public) |
-| Friday, Aug 11 | 10:00 - 18:00 |
-| Saturday, Aug 12 | 10:00 - 18:00 |
-| Sunday, Aug 13 | 10:00 - 13:00 |
+| Thursday, Aug 8 | Setup (Closed to Public) |
+| Friday, Aug 9 | 10:00 - 18:00 |
+| Saturday, Aug 10 | 10:00 - 18:00 |
+| Sunday, Aug 11 | 10:00 - 13:00 |
 
-The village will be located in the Caesars Forum - [venue map here](https://defcon.outel.org/dcwp/dc31/maps/maps-caesars-full/)
+The village will be located in the Las Vegas Convention Center - [venue map here](https://defcon.org/images/defcon-32/dc-32-map-public.pdf)
 
 <br/>
 <br/>
@@ -35,17 +35,13 @@ The village will be located in the Caesars Forum - [venue map here](https://defc
 
 | Event | Times |
 | --- | ------|
-| Prizes for all events announced | Saturday Aug 12, 16:00  |
+| Prizes for all events announced | Saturday Aug 10, 16:00  |
 
 [RoboSumo](/events/robosumo.html) will be available to play and test code during all open hours. Competition will be Saturday at 13:00 for as long as it takes to run a bracket.
 
 [HHV Rube Goldberg Machine](/events/hhv_rgb.html) will be running during all open hours. Come by and bring some text to print! Modules will be allowed to be added and removed all open hours as well. Those that want to be involved in the judging will need to have had their module inline before Saturday at 16:00 when prizes will be announced.
 
-[Make Your 0wn Use Contest](/events/makeyourownuse.html) will be running during all open hours. We have space for display, if you are comfortable leaving it out for people to look at. Judging will conclude on Saturday at 16:00 when prizes will be announced.
-
-[HHV Capture The Flag (CTF)]() is back in person and will be running during all open hours. More details to follow!
-
-[Badgelife](https://www.vice.com/en/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards) is alive and well this year at DEF CON. If you are looking for advice on creating, hacking, augmenting or fixing badges, most creators wander into HHV from time to time. They will be around to help and answer questions about the community and how to get involved. Badges and learn to solder kits this year are being sold at the Vendor area. HHV is not a place that sells badges, or a place to pick up purchased badges, but a place that welcomes the curious. Come hang out and learn more from the Badgemakers community representitive at the HHV info booth, or for those that are extra curious join the [Badgemakers Discord](https://discord.gg/SPHmVzbDXN)
+[HHV Capture The Flag (CTF)](https://dchhv.org/announcement/ctf/dc32/2024/08/01/dc32-hhv-challenges.html) is back in person and will be running during all open hours. More details to follow!
 
 <br/>
 <br/>
@@ -54,85 +50,49 @@ The village will be located in the Caesars Forum - [venue map here](https://defc
 
 | Time | Talk/Workshop |
 | ---- | ------------- |
-| Friday, Aug 11th, 1100~1120 | Talk - [The Creation Of The Out-Of-Band Anti Virus Dock (Oobavd)](#the-creation-of-the-out-of-band-anti-virus-dock-oobavd) |
-| Friday, Aug 11th, 1200~1250 | Workshop - [Introduction To Esp8266/Esp32 Microcontrollers And Building A Wi-Fi Deauthentication Detector](#introduction-to-esp8266esp32-microcontrollers-and-building-a-wi-fi-deauthentication-detector) |
-| Friday, Aug 11th, 1300~1350 | Talk - [Sadprotocol Goes To Hollywood: Hijacking An Ip Camera Stream As Seen In The Movies](#sadprotocol-goes-to-hollywood-hijacking-an-ip-camera-stream-as-seen-in-the-movies) |
-| Friday, Aug 11th, 1400~1450 | Talk - [Open Sesame! How To Open One Thousand And One Locks In The 21St Century ?](#open-sesame-how-to-open-one-thousand-and-one-locks-in-the-21st-century-) |
-| Friday, Aug 11th, 1500~1550 | Workshop - [Radiation Detection For The Rest Of Us - Diy Radiation Spectroscopy](#radiation-detection-for-the-rest-of-us---diy-radiation-spectroscopy) |
-| Saturday, Aug 12th, 1500~1550 | Talk - [Generating Rf With Stock Hardware For Drones](#generating-rf-with-stock-hardware-for-drones) |
+| | Talk - [All Your Keyboards Are Belong to US!](#the-creation-of-the-out-of-band-anti-virus-dock-oobavd) |
+| | Talk - [Taking off the blindfold: Detecting persistent threats on Draytek edge devices](#taking-off-the-blindfold-detecting-persistent-threats-on-draytek-edge-devices) |
+| | Talk - [Custom cheap, easy and safe badges - without starting from scratch](#custom-cheap-easy-and-safe-badges-without-starting-from-scratch) |
 
 ## Talk/Workshop Details
 * * *
-### The Creation Of The Out-Of-Band Anti Virus Dock (Oobavd)
-Pengfei "BigZaddy" Yu, Bosen Zhang, Howard Yang, Tan Jing Zhi
+### All Your Keyboards Are Belong to US!
+Federico Lucifredi
 #### Abstract
-USB-based attacks account for over 52% of all cybersecurity attacks on operational technology (OT) systems in the industrial control systems (ICS) industry. Stuxnet's discovery in 2015 showed the vulnerability of air-gapped systems, previously considered invulnerable. These systems are found in secure military organizations and SCADA systems. The societal impact of such attacks can be enormous, as evidenced by Stuxnet's impact on Iran's nuclear programs.
+This is a live tutorial of hacking against keyboards of all forms. Attacking the keyboard is the ultimate strategy to hijack a session before it is encrypted, capturing plaintext at the source and (often) in much simpler ways than those required to attack network protocols. 
 
-Air-gapped systems, while considered secure, mostly require mobile storage devices like USB sticks for updates and data transfers, exposing them to malware. Adding peripherals like keyboards and mice will also render the systems vulnerable to BadUSB attacks. This all can be prevented by OOBAVD, which acts as an intermediary between air-gapped systems and USB devices, blocks malicious files from entering the air-gapped systems. OOBAVD being out of band also mitigates the risk of malware attacking the host's antivirus software.
+In this session we explore available attack vectors against traditional keyboards, starting with plain old keyloggers. We then advance to "Van Eck Phreaking" style attacks against individual keystroke emanations as well as RF wireless connections, and we finally graduate to the new hotness: acoustic attacks by eavesdropping on the sound of you typing! 
 
-So what exactly is OOBAVD and how does one take an anti-virus out of band?
+Use your newfound knowledge for good, with great power comes great responsibility!
+
+A subset of signal leak attacks focusing on keyboards. This talk is compiled with open sources, no classified material will be discussed.
 #### Bio
-Pengfei is a professional cyber firefighter, always jumping from fire to fire.
-Bosen loves breaking things, he lives by his mantra: "Just Nuke It"
-Howard is the data science-wiz, we asked him for one good model, and he gave us five.
-Jing Zhi is slenderman, the hardware padawan.
+Federico Lucifredi is the Product Management Director for Ceph Storage at IBM and Red Hat and a co-author of O'Reilly's "Peccary Book" on AWS System Administration. Previously, he was the Ubuntu Server product manager at Canonical, where he oversaw a broad portfolio and the rise of Ubuntu Server to the rank of most popular OS on Amazon AWS. A software engineer-turned-manager at the Novell corporation, he was part of the SUSE Linux team, overseeing the update lifecycle and delivery stack of a $150 million maintenance business. A CIO and a network software architect at advanced technology and embedded Linux startups, Federico was also a lecturer for over 200 students in Boston University's graduate and undergraduate programs, and simultaneously a consultant for MIT implementing fluid-dynamics simulations in Java.
 
 * * *
-### Introduction To Esp8266/Esp32 Microcontrollers And Building A Wi-Fi Deauthentication Detector
-Ryan Zagrodnik
+### Taking off the blindfold: Detecting persistent threats on Draytek edge devices
+Octavio Gianatiempo, Gastón Aznarez
 #### Abstract
-Join us as we provide an introduction to the Adruino IDE and the ESP8266 microcontroller. Receive a free ESP8266 **(Limited to the first 30 attendees to approach the speaker before the start of the talk and ask for a kit)**, and build your own Wi-Fi deauthentication detector. We will walkthrough assembly, flashing, and configuration steps.
+Advanced attackers are increasingly choosing edge devices as targets, many of which are security appliances such as VPNs and Firewalls. They run closed-source firmware, and defenders and researchers must understand it to assess its security and integrity. We faced this firsthand when a client that used Draytek equipment was compromised. With at least 500k Draytek routers exposed to the Internet globally, no working tools exist to extract their firmware and assist researchers and defenders working with them.
+We reverse-engineered Draytek's firmware format, developed tools to extract it, and discovered that its RTOS kernel can load code modules dynamically. These stored modules remain active even after firmware upgrades, inadvertently facilitating persistent threats. We crafted and uploaded malicious modules using our tools and newly found vulnerabilities to achieve persistence.
+End-users lack straightforward means to detect such compromises. In response to this threat, we developed our own module to assess the integrity of other modules loaded in memory, mitigating its impact. In our pursuit of a more secure internet, we are sharing our knowledge and opening our tools to the community, enabling observability, hardening, transparency, and vulnerability research on Draytek edge devices.
 #### Bio
-Ryan Zagrodnik has been consulting as a Penetration Tester for SynerComm for almost five years. Ryan brings over sixteen years of red and blue team experience. Ryan started his career maintaining large enterprise networks as a System Administrator in 2007. Ryan earned his CISSP in 2011 and has been working in offensive security ever since. Prior to starting at SynerComm, Ryan spent three years on an internal red team at a Fortune 1000 organization. Ryan also spent several years working in offensive and defensive security roles for large enterprises who provided services for the U.S. Department of Defense and Department of Education.
+Octavio Gianatiempo is a Security Researcher at Faraday and a Computer Science student at the University of Buenos Aires. He's also a biologist with research experience in molecular biology and neuroscience. The necessity of analyzing complex biological data was his point of entry into programming. However, he wanted to gain a deeper understanding of how computers work, so he enrolled in Computer Science. As a Security Researcher at Faraday, he focuses on vulnerability research on IoT and embedded devices and fuzzing open and closed-source software to find new vulnerabilities and exploit them. He has presented his findings at various conferences, including DEFCON, Ekoparty, 8.8, and Nerdearla.
+
+Gastón Aznarez is a computer enthusiast who is passionate about cybersecurity. He earned a degree in Computer Science and began working in malware detection in firmware. He currently works as a Security Researcher at Faraday, specializing in discovering and exploiting vulnerabilities in IoT and embedded devices. Gastón also participates in CTF competitions and has shared his expertise as a speaker at different conferences.
+
 * * *
-### Sadprotocol Goes To Hollywood: Hijacking An Ip Camera Stream As Seen In The Movies
-Octavio Gianatiempo, Javier Aguinaga
-#### Abstract
-When people think about a compromised surveillance camera, privacy is their first concern. But what about attacking the stream integrity? How hard can this movie hacking stunt be in real life? Previous research has focused on the network layer, but we wondered if we could achieve the feat by finding a zero-day on a device we owned.
+## Custom cheap, easy and safe badges - without starting from scratch
+securelyfitz
+### Abstract
+Electronic conference badges are cool and everything, but they're A LOT of time, money, and effort including but not limited to hardware, software and art design, testing, manufacturing, testing, provisioning, and repairing.
 
-Our research has uncovered two LAN RCE vulnerabilities in the implementation of Hikvision’s Search Active Devices Protocol (SADP) and SDK server found in several Ezviz products. Exploiting either of these bugs, we managed to serve a victim an arbitrary stream by tunneling their connection with the camera into an attacker-controlled server while leaving all other camera features operational.
+I've got a relatively simple, cheap, mass-producible badge design. We'll start out by looking at and understanding the design and implementation, highlighting the areas worth customizing (and which to leave as-s). Then we'll spend the majority of our time working in KiCAD to customize the hardware, CircuitPython to customize the software, or both if you have time.
 
-We will take a deep dive into the whole research process: firmware analysis, vulnerability discovery, building a toolchain to compile a debugger for the target, developing an exploit capable of bypassing ASLR, and all the details about the Hollywood-style post-exploitation including tracing, in memory code patching and manipulating the execution of the binary that implements most of the camera features.
+We'll wrap up with some discussion of how to handle badge logistics for events of different sizes, and warn about some of the many pitfalls that electronic badges suffer. You should walk away with the design for your own customized badge design plus everything you need to have it mass produced.
 
-By filling the gap between IoT hacking and the big screen, we put the integrity of video surveillance systems into question and hope to raise awareness about the security risks posed by these devices.
+Everyone should bring a laptop and install [KiCad](https://www.kicad.org/download/) and/or a good text editor for python code ([Mu](https://codewith.mu/), [VSCode](https://code.visualstudio.com/download), etc)
 #### Bio
-Octavio Gianatiempo is a Security Researcher at Faraday and a Computer Science student at the University of Buenos Aires. He's also a biologist with research experience in molecular biology and neuroscience. The necessity of analyzing complex biological data was his point of entry into programming. But he wanted to achieve a deeper understanding of how computers work, so he enrolled in Computer Science. As a Security Researcher at Faraday, he focuses on embedded devices, reverse engineering and fuzzing open and closed source software to find new vulnerabilities and exploit them.
+Joe FitzPatrick (@securelyfitz) is an Instructor and Researcher at SecuringHardware.com. Joe started his career working on low-level silicon debug, security validation, and penetration testing of CPUS, SOCs, and microcontrollers. He founded SecuringHardware.com and has spent decades developing and leading hardware security-related training, instructing hundreds of security researchers, pen-testers, hardware validators worldwide. When not teaching classes on applied physical attacks, Joe is busy developing new course content or working on contributions to the NSA Playset and other misdirected hardware projects, which he regularly presents at all sorts of fun conferences.
 
-Javier Aguinaga is a self-taught reverse engineer with a principal focus in exploiting, currently working at Faraday for the last 7 years. He started his journey as a hobbyist electronic enthusiast and began learning how to crack security systems for video games. This led him to pursue a career in reverse engineering, where he has gained extensive experience analyzing and breaking down complex systems. With his expertise, Javier has been able to identify vulnerabilities in various technologies and has presented his findings at several conferences. He looks forward to sharing his insights and learning from others at the upcoming conference.
-* * *
-### Open Sesame! How To Open One Thousand And One Locks In The 21St Century ?
-Thomas BYGODT
-#### Abstract
-In an ever increasingly connected society, we are often introduced to “new and improved” devices that offer smart capabilities, and door locks are no exception. Increased security and ease of use are some of the key selling points for these locks.  
-While some devices are hard to attack, the majority are not, because manufacturers are not following simple security practices in their physical, hardware and code design. Improving their security is essential, but how do you do that when hardware and IoT hacking looks like black magic at every step?  
-From electrical signals inside the lock to the Bluetooth Low Energy (BLE) communication with a mobile application developed using a widely used software development kit (SDK), I will share my simple spells that has led me to find vulnerabilities impacting tens of thousands of smart devices from multiple manufacturers. That and why never giving up can pay off!
-#### Bio
-Thomas BYGODT is a penetration tester at Orange Cyberdefense, a CTF player and a developer. 
-He does not want to remain passive in front of the technologies that interact with the real world. Testing and understanding them allows us to better understand their limits, both for people's privacy and for their security. He has been specializing in connected devices for 3 years now. 
-* * *
-### Radiation Detection For The Rest Of Us - Diy Radiation Spectroscopy
-Patrick Kiley
-#### Abstract
-When radiation detectors are mentioned, one tends to think of the
-geiger counter. This type of detector happens to be just one method of
-radiation detection. This workshop will introduce gamma ray
-spectrography, which measures the energy absorbed by the individual
-gamma rays. This energy level can let us know what radioactive isotope
-generated the gamma and can aid in identifying the material being
-examined.
-#### Bio
-Patrick Kiley is a Security Consultant doing hardware penetration
-testing and has over 20 years of information security experience.
-Patrick has performed research in Avionics security, Vehicles, and
-even managed to brick a Tesla. Patrick has experience in penetration
-testing all the things, hardware hacking, IoT and Transportation.
-* * *
-### Generating Rf With Stock Hardware For Drones
-David Melendez
-#### Abstract
-The popularity of cheap and DIY drones has made them a target for attackers using radiofrequency (RF) signals. Frequency hopping is a technique that can be used to mitigate the risks associated with RF warfare. However, implementing frequency hopping in cheap and DIY drones presents several technical challenges, such as the need for a stable clock and synchronization between the transmitter and receiver without rising hardware costs. Despite these challenges, frequency hopping can significantly enhance the security of consumer and DIY drones making much more challenging or even useless  anti-drone systems' role.
-#### Bio
-David Melendez is an R&D Embedded Systems Engineer, with over twelve years of experience in cybersecurity and hardware hacking. He has a proven track record of presenting his groundbreaking investigations at prestigious conferences around the world, including DEFCON, BLACKHAT, and ROOTEDCON.
 
-David is also a drone creator and author of the book "Hacking with Drones," which showcases his innovative use of drones in cybersecurity research. With his passion for pushing the boundaries of technology, David is constantly seeking new ways to improve the security and functionality of embedded systems
-* * *

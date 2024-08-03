@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 32 Challenge
+We're back for DEF CON 31 as an ✨Official DEF CON Contest!✨ Stay tuned for more!
+
+[DEF CON 32 Challenge](/challenges/dc32.html)
+
 ## DEF CON 31 Challenge
 We're back for DEF CON 31 as an ✨Official DEF CON Contest!✨ Stay tuned for more!
 
