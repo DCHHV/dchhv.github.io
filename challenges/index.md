@@ -8,7 +8,9 @@ In addition to our hardware based challenges, we sometimes put together some log
 * * *
 
 ## DEF CON 32 Challenge
-This year's CTF is powered by Hack The Box ([https://www.hackthebox.com/](https://www.hackthebox.com/)). More information to come soon!
+This year's CTF is powered by Hack The Box ([https://www.hackthebox.com/](https://www.hackthebox.com/)).
+
+In a dystopian cyberpunk future, the megacity of Neon Nexus is dominated by CyberCorp, a leading corporation known for its cutting-edge cybernetic augmentation modules. Recently, CyberCorp introduced their latest batch of enhancements, which quickly became popular due to their advanced AI capabilities. However, unbeknownst to the public, these enhancements contain a critical defect, purposefully introduced by the corporation. This defect triggers a condition known as "cyberpsychosis" in its users, causing them to lose control over their actions. As users succumb to this state, their AI-augmented cybernetic enhancements begin to take over, dictating their every move.
 
 [DEF CON 32 Challenge](/challenges/dc32.html)
 
