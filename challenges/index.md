@@ -8,7 +8,7 @@ In addition to our hardware based challenges, we sometimes put together some log
 * * *
 
 ## DEF CON 32 Challenge
-We're back for DEF CON 31 as an ✨Official DEF CON Contest!✨ Stay tuned for more!
+This year's CTF is powered by Hack The Box ([https://www.hackthebox.com/](https://www.hackthebox.com/)). More information to come soon!
 
 [DEF CON 32 Challenge](/challenges/dc32.html)
 

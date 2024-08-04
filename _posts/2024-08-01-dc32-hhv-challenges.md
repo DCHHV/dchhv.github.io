@@ -10,6 +10,8 @@ categories: announcement ctf DC32
 
 Get Ready for the DEF CON 32 Hardware Hacking Village CTF!
 
+More details and up to date information [on the CTF page](/challenges/dc32.html)!
+
 We're thrilled to announce that the DEF CON Hardware Hacking Village Capture the Flag (CTF) competition is returning and will kick off in just over a week! Whether you're a seasoned hardware hacker or new to the scene, this is the perfect opportunity to test your skills and learn from the best in the community. This year CTF will consist of two parts:
 
 * Online Hardware challenges: 
