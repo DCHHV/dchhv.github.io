@@ -50,10 +50,10 @@ The village will be located in the Las Vegas Convention Center - [venue map here
 
 | Time | Location | Talk/Workshop | 
 |------|----------|---------------|
-| Friday, August 9th, 11:30-12:20 | Creator Stage 1 | Talk - [Custom, Cheap, Easy, And Safe Badges - Without Starting From Scratch](#custom,-cheap,-easy,-and-safe-badges---without-starting-from-scratch) |
-| Saturday, August 10th, 12:30-13:20 | Creator Stage 1 | Talk - [The Wild And Wonderful World Of Early Microprocessors With A Focus On The 6502](#the-wild-and-wonderful-world-of-early-microprocessors-with-a-focus-on-the-6502) |
-| Saturday, August 10th, 13:30-14:20 | Creator Stage 1 | Talk - [All Your Keyboards Are Belong To Us!](#all-your-keyboards-are-belong-to-us!) |
-| Sunday, August 11th, 10:00-11:20 | Creator Stage 1 | Talk - [Taking Off The Blindfold: Detecting Persistent Threats On Draytek Edge Devices](#taking-off-the-blindfold:-detecting-persistent-threats-on-draytek-edge-devices) |
+| Friday, August 9th, 11:30-12:20 | Creator Stage 1 | Talk - [Custom, Cheap, Easy, And Safe Badges - Without Starting From Scratch](#custom,-cheap,-easy,-and-safe-badges---without-starting-from-scratch) - securelyfitz |
+| Saturday, August 10th, 12:30-13:20 | Creator Stage 1 | Talk - [The Wild And Wonderful World Of Early Microprocessors With A Focus On The 6502](#the-wild-and-wonderful-world-of-early-microprocessors-with-a-focus-on-the-6502) - Michael Brown |
+| Saturday, August 10th, 13:30-14:20 | Creator Stage 1 | CANCELED  <s>Talk - All Your Keyboards Are Belong To Us! - Federico Lucifredi</s>| 
+| Sunday, August 11th, 10:00-11:20 | Creator Stage 1 | Talk - [Taking Off The Blindfold: Detecting Persistent Threats On Draytek Edge Devices](#taking-off-the-blindfold:-detecting-persistent-threats-on-draytek-edge-devices) - Octavio Gianatiempo, Gastón Aznarez |
 
 ## Talk/Workshop Details
 * * *
@@ -94,7 +94,7 @@ A subset of signal leak attacks focusing on keyboards. This talk is compiled wit
 Federico Lucifredi is the Product Management Director for Ceph Storage at IBM and Red Hat and a co-author of O'Reilly's "Peccary Book" on AWS System Administration. Previously, he was the Ubuntu Server product manager at Canonical, where he oversaw a broad portfolio and the rise of Ubuntu Server to the rank of most popular OS on Amazon AWS. A software engineer-turned-manager at the Novell corporation, he was part of the SUSE Linux team, overseeing the update lifecycle and delivery stack of a $150 million maintenance business. A CIO and a network software architect at advanced technology and embedded Linux startups, Federico was also a lecturer for over 200 students in Boston University's graduate and undergraduate programs, and simultaneously a consultant for MIT implementing fluid-dynamics simulations in Java.
 * * *
 ### Taking Off The Blindfold: Detecting Persistent Threats On Draytek Edge Devices
-Octavio Gianatiempo Gastón Aznarez
+Octavio Gianatiempo, Gastón Aznarez
 #### Abstract
 Advanced attackers are increasingly choosing edge devices as targets, many of which are security appliances such as VPNs and Firewalls. They run closed-source firmware, and defenders and researchers must understand it to assess its security and integrity. We faced this firsthand when a client that used Draytek equipment was compromised. With at least 500k Draytek routers exposed to the Internet globally, no working tools exist to extract their firmware and assist researchers and defenders working with them.
 We reverse-engineered Draytek's firmware format, developed tools to extract it, and discovered that its RTOS kernel can load code modules dynamically. These stored modules remain active even after firmware upgrades, inadvertently facilitating persistent threats. We crafted and uploaded malicious modules using our tools and newly found vulnerabilities to achieve persistence.
