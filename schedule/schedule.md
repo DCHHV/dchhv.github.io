@@ -48,12 +48,12 @@ The village will be located in the Las Vegas Convention Center - [venue map here
 
 ## Talk/Workshop Schedule
 
-| Time | Talk/Workshop | 
-|------|---------------|
-| Friday, August 9th, 11:30-12:20, Creator Stage 1 | Talk - [Custom, Cheap, Easy, And Safe Badges - Without Starting From Scratch](#custom,-cheap,-easy,-and-safe-badges---without-starting-from-scratch) |
-| Saturday, August 10th, 12:30-13:20, Creator Stage 1 | Talk - [The Wild And Wonderful World Of Early Microprocessors With A Focus On The 6502](#the-wild-and-wonderful-world-of-early-microprocessors-with-a-focus-on-the-6502) |
-| Saturday, August 10th, 13:30-14:20, Creator Stage 1 | Talk - [All Your Keyboards Are Belong To Us!](#all-your-keyboards-are-belong-to-us!) |
-| Sunday, August 11th, 10:00-11:20, Creator Stage 1 | Talk - [Taking Off The Blindfold: Detecting Persistent Threats On Draytek Edge Devices](#taking-off-the-blindfold:-detecting-persistent-threats-on-draytek-edge-devices) |
+| Time | Location | Talk/Workshop | 
+|------|----------|---------------|
+| Friday, August 9th, 11:30-12:20 | Creator Stage 1 | Talk - [Custom, Cheap, Easy, And Safe Badges - Without Starting From Scratch](#custom,-cheap,-easy,-and-safe-badges---without-starting-from-scratch) |
+| Saturday, August 10th, 12:30-13:20 | Creator Stage 1 | Talk - [The Wild And Wonderful World Of Early Microprocessors With A Focus On The 6502](#the-wild-and-wonderful-world-of-early-microprocessors-with-a-focus-on-the-6502) |
+| Saturday, August 10th, 13:30-14:20 | Creator Stage 1 | Talk - [All Your Keyboards Are Belong To Us!](#all-your-keyboards-are-belong-to-us!) |
+| Sunday, August 11th, 10:00-11:20 | Creator Stage 1 | Talk - [Taking Off The Blindfold: Detecting Persistent Threats On Draytek Edge Devices](#taking-off-the-blindfold:-detecting-persistent-threats-on-draytek-edge-devices) |
 
 ## Talk/Workshop Details
 * * *
