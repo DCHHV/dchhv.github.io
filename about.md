@@ -21,13 +21,6 @@ A special thanks to [SynShop](https://synshop.org/), the Las Vegas Hackerspace. 
 ## Donors
 Some of our tools, many of our giveaways, and nearly all of our prizes are made possible thanks to generous donors who give to the Hardware Hacking Village and the Soldering Skills Village.
 
-All donors, past and present (in alphabetical order):
-
-| [Circuit Specialists](https://www.circuitspecialists.com/) | [Hackaday](https://hackaday.com/) | [HackerBoxes](https://hackerboxes.com/) | 
-| [Hack The Box](https://www.hackthebox.com/) | [Hak5](https://www.hak5.org/) | [iFixit](https://www.ifixit.com/) | 
-| [JLCPCB](https://www.jlcpcb.com/PCH) | [OSHPark](https://oshpark.com/) | [Pololu](https://www.pololu.com/) |
-| [SparkFun](https://www.sparkfun.com/) | [Tindie](https://www.tindie.com/) | [UAT](https://www.uat.edu/) |
-
 Interested in becoming a donor? Contact us! Send an email to donations (at) dchhv.org
 
 - First and foremost, if you are considering donating to the HHV and/or SSV, THANK YOU! Your donations to us go directly to the attendees in order to give them something to play with or hack on during DEF CON. We make sure it gets in their hands as giveaways or as prizes for contests and events that we run. All items that we give away to attendees are directly from donors.
