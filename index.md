@@ -1,6 +1,6 @@
 ---
 title: DEF CON 33
-subtitle: August 7-10, 2024 taking place in Las Vegas. See the DEF CON website for up to date information.
+subtitle: August 7-10, 2025 taking place in Las Vegas. See the DEF CON website for up to date information.
 layout: main
 ---
 
