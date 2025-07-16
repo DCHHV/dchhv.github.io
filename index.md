@@ -1,6 +1,6 @@
 ---
-title: DEF CON 32
-subtitle: August 8-11, 2024 taking place in Las Vegas. See the DEF CON website for up to date information.
+title: DEF CON 33
+subtitle: August 7-10, 2024 taking place in Las Vegas. See the DEF CON website for up to date information.
 layout: main
 ---
 
@@ -9,7 +9,6 @@ Join us for another DEF CON adventure and enjoy some hardware hacking shenanigan
 ### Returning Events
 * [RoboSumo](/events/robosumo.html)
 * [HHV CTF](/challenges/dc32.html)
-* [HHV Rube Goldberg Machine](/events/hhv_rgb.html)
 
 Keep up to date with the [DEF CON website](https://defcon.org/)
 
