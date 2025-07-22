@@ -5,7 +5,7 @@ image: assets/images/header_logo.png
 ---
 
 ## Talks/Demos/Hands-on Workshops
-### Call for papers for DEF CON 32 now open!!
+### Call for papers for DEF CON 33 already closed!!
 We want to give you a platform to teach others! Have a cool hack you want to show off? Want to teach something awesome? Want to demonstrate your own repurposing?  Let us know!
 
 We are seeking anything and everything related to *Make Your Own Use* that is hands-on. Do you have a training or workshop that includes a hands-on component? Perhaps there is a specific meetup of a special (hardware) interest group you would like to lead? Topics that we are always interested in include:
