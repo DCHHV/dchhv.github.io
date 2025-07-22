@@ -51,8 +51,8 @@ The village will be located in the Las Vegas Convention Center
 | Friday, August 8th, 17:00 | Creator Stage 3 (Rm. 231) | Talk - [All Your Keyboards Are Belong To Us!](#all-your-keyboards-are-belong-to-us) |
 | Saturday, August 9th, 14:00 | Creator Stage 5 (Rm. 229) | Talk - [The Missing Link: Draytek's New RCEs Complete The Chain](#the-missing-link-drayteks-new-rces-complete-the-chain) |
 | Saturday, August 9th, 14:30 | Creator Stage 2 (Rm. 232) | Talk - [The Power(Point) Glove](#the-powerpoint-glove) |
-| Friday, August 8th, 16:00   | In our Village By Robo Sumo | Meetup - [Hack My Bot](#hack-my-bot) |
-| Saturday, August 9th, 16:00 | In our Village By Robo Sumo | Meetup - [Hack My Bot](#hack-my-bot) |
+| Friday, August 8th, 16:00   | Hardware Hacking Village, near Robo Sumo | Meetup - [Hack My Bot](#hack-my-bot) |
+| Saturday, August 9th, 16:00 | Hardware Hacking Village,  Robo Sumo | Meetup - [Hack My Bot](#hack-my-bot) |
 
 
 ## Talk/Workshop Details
