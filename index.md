@@ -10,7 +10,7 @@ Join us for another DEF CON adventure and enjoy some hardware hacking shenanigan
 * [RoboSumo](/events/robosumo.html)
 * [HHV CTF](/challenges/dc33.html)
 
-**CHANGE** Hack My Bot time and place has changed! See the [schedule](/schedule/) page for details.
+**CHANGE** Hack My Bot time and place has changed! See the [schedule](/schedule/schedule.html) page for details.
 
 Keep up to date with the [DEF CON website](https://defcon.org/)
 
