@@ -7,6 +7,11 @@ In addition to our hardware based challenges, we sometimes put together some log
 
 * * *
 
+## DEF CON 34 HHV CTF
+We're back, and ready for action!
+
+[DEF CON 34 Challenge](/challenges/dc34.html)
+
 ## DEF CON 33 Challenge
 HHV Techonologies is back with a new addition to the HHVDC badge IC family! Come check out our demo unit at our table in the DEF CON HHV/SSV area.
 
