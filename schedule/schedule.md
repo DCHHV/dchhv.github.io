@@ -31,8 +31,8 @@ The village will be located in the Las Vegas Convention Center
 
 ## Events Schedule
 
-| Event | Times |
-| --- | ------|
-| Prizes for all events announced | TBD |
+| Event | Times | Where |
+| --- | ------| ----    |
+| [HHV CTF Opens!](/challenges/dc34.html) | Aug 7 & 8, 10:00 - 18:00 | HHV/SSV |
+| HHV CTF Awards | Aug 9, 12:00  | HHV/SSV presentation stage |
 
-HHV Capture The Flag (CTF) is making a return! Details to come soon!
