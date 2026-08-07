@@ -10,5 +10,7 @@ main:
      url: /projects.html
    - title: "Schedule"
      url: /schedule/schedule.html
-   - title: "CFP"
-     url: /CFP.html
+   - title: "Tools"
+     url: /tools.html
+#   - title: "CFP"
+#     url: /CFP.html
